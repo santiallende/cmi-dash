@@ -1,0 +1,3537 @@
+"id","milConflictCode","dummyExpoSplit","exposureName","exposureValue","sumKansasYes"
+179,"ODSS",0,"Animal Bodies","No",16
+179,"ODSS",0,"Anthrax Vaccine","Yes",16
+179,"ODSS",0,"Asbestos","Yes",16
+179,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",17
+179,"ODSS",0,"Animal Bites","No",16
+179,"ODSS",1,"Human Blood/Bodily Fluids","Yes",16
+179,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",16
+179,"OIF/OEF/OND",0,"Chemical Solvents","Yes",16
+179,"ODSS",0,"Chlorine Gas","Yes",16
+179,"OIF/OEF/OND",2,"Depleted Uranium","Yes",16
+179,"OIF/OEF/OND",1,"Fog Oils","Yes",16
+179,"ODSS",2,"Tent Heater Smoke","Don't Know",16
+179,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",16
+179,"ODSS",1,"Infectious Disease","Yes",16
+179,"ODSS",1,"Insect Bites","No",15
+179,"ODSS",1,"Lasers","Don't Know",16
+179,"ODSS",2,"Embedded Metal Fragments","Yes",16
+179,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",15
+179,"ODSS",0,"Nerve Agent Antidotes","Yes",16
+179,"ODSS",2,"Loud Noises","Don't Know",17
+179,"ODSS",1,"Ingestion of Contaminated Water","Yes",16
+179,"ODSS",2,"Paint","Yes",17
+179,"ODSS",1,"Pesticides","No",16
+179,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",15
+179,"OIF/OEF/OND",1,"Industrial Pollution","Yes",17
+179,"ODSS",2,"Prophylactic Meds","Yes",16
+179,"ODSS",2,"Radar/Microwaves","Yes",16
+179,"ODSS",1,"Ionizing Radiation","No",14
+179,"ODSS",2,"Sand/Dust","Don't Know",17
+179,"ODSS",2,"Vaccinations","No",16
+179,"ODSS",1,"Excessive Vibration","No",15
+179,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",16
+179,"ODSS",0,"Chemical Weapons","No",16
+179,"ODSS",2,"Weapons Exhaust","No",16
+229,"OIF/OEF/OND",0,"Animal Bodies","No",19
+229,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",19
+229,"OIF/OEF/OND",0,"Asbestos","Yes",19
+229,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",18
+229,"ODSS",0,"Animal Bites","No",20
+229,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",18
+229,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",18
+229,"OIF/OEF/OND",0,"Chemical Solvents","Yes",19
+229,"OIF/OEF/OND",0,"Chlorine Gas","Yes",18
+229,"ODSS",2,"Depleted Uranium","Don't Know",20
+229,"ODSS",1,"Fog Oils","No",20
+229,"ODSS",2,"Tent Heater Smoke","Don't Know",20
+229,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",19
+229,"ODSS",1,"Infectious Disease","No",20
+229,"ODSS",1,"Insect Bites","Yes",19
+229,"ODSS",1,"Lasers","Yes",19
+229,"ODSS",2,"Embedded Metal Fragments","Don't Know",18
+229,"ODSS",0,"Chemical Alarms/MOPP4","Yes",18
+229,"ODSS",0,"Nerve Agent Antidotes","Don't Know",20
+229,"OIF/OEF/OND",2,"Loud Noises","No",20
+229,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",19
+229,"ODSS",2,"Paint","Don't Know",20
+229,"ODSS",1,"Pesticides","Don't Know",19
+229,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",19
+229,"OIF/OEF/OND",1,"Industrial Pollution","Yes",19
+229,"OIF/OEF/OND",2,"Prophylactic Meds","No",19
+229,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",19
+229,"ODSS",1,"Ionizing Radiation","Don't Know",20
+229,"ODSS",2,"Sand/Dust","Yes",19
+229,"OIF/OEF/OND",2,"Vaccinations","Don't Know",19
+229,"OIF/OEF/OND",1,"Excessive Vibration","Yes",19
+229,"ODSS",1,"Bathed in Contaminated Water","No",19
+229,"ODSS",0,"Chemical Weapons","No",19
+229,"ODSS",2,"Weapons Exhaust","No",19
+256,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",18
+256,"ODSS",0,"Anthrax Vaccine","Don't Know",18
+256,"OIF/OEF/OND",0,"Asbestos","No",17
+256,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",18
+256,"OIF/OEF/OND",0,"Animal Bites","Yes",17
+256,"ODSS",1,"Human Blood/Bodily Fluids","No",19
+256,"ODSS",2,"Burning Trash or Feces","Yes",16
+256,"ODSS",0,"Chemical Solvents","Yes",18
+256,"OIF/OEF/OND",0,"Chlorine Gas","No",17
+256,"ODSS",2,"Depleted Uranium","Don't Know",16
+256,"ODSS",1,"Fog Oils","Don't Know",17
+256,"ODSS",2,"Tent Heater Smoke","Don't Know",18
+256,"ODSS",0,"Agent Orange or Other Herbicides","No",17
+256,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",17
+256,"OIF/OEF/OND",1,"Insect Bites","No",18
+256,"OIF/OEF/OND",1,"Lasers","Yes",17
+256,"ODSS",2,"Embedded Metal Fragments","No",15
+256,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",17
+256,"ODSS",0,"Nerve Agent Antidotes","No",18
+256,"OIF/OEF/OND",2,"Loud Noises","No",17
+256,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",18
+256,"OIF/OEF/OND",2,"Paint","Don't Know",16
+256,"ODSS",1,"Pesticides","Don't Know",18
+256,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",17
+256,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",16
+256,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",16
+256,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",17
+256,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",17
+256,"OIF/OEF/OND",2,"Sand/Dust","No",17
+256,"ODSS",2,"Vaccinations","No",18
+256,"OIF/OEF/OND",1,"Excessive Vibration","No",17
+256,"ODSS",1,"Bathed in Contaminated Water","Yes",16
+256,"OIF/OEF/OND",0,"Chemical Weapons","No",18
+256,"ODSS",2,"Weapons Exhaust","Don't Know",19
+407,"ODSS",0,"Animal Bodies","No",22
+407,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",23
+407,"OIF/OEF/OND",0,"Asbestos","Don't Know",24
+407,"ODSS",0,"Biological Warfare Agents","Yes",22
+407,"ODSS",0,"Animal Bites","Don't Know",23
+407,"ODSS",1,"Human Blood/Bodily Fluids","No",22
+407,"OIF/OEF/OND",2,"Burning Trash or Feces","No",22
+407,"OIF/OEF/OND",0,"Chemical Solvents","Yes",22
+407,"OIF/OEF/OND",0,"Chlorine Gas","Yes",23
+407,"ODSS",2,"Depleted Uranium","No",24
+407,"ODSS",1,"Fog Oils","No",23
+407,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",23
+407,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",23
+407,"OIF/OEF/OND",1,"Infectious Disease","Yes",22
+407,"ODSS",1,"Insect Bites","Don't Know",24
+407,"ODSS",1,"Lasers","Yes",22
+407,"ODSS",2,"Embedded Metal Fragments","No",23
+407,"ODSS",0,"Chemical Alarms/MOPP4","No",22
+407,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",23
+407,"OIF/OEF/OND",2,"Loud Noises","Don't Know",23
+407,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",24
+407,"OIF/OEF/OND",2,"Paint","No",23
+407,"ODSS",1,"Pesticides","Yes",23
+407,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",23
+407,"ODSS",1,"Industrial Pollution","Yes",23
+407,"ODSS",2,"Prophylactic Meds","Don't Know",24
+407,"ODSS",2,"Radar/Microwaves","Yes",23
+407,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",22
+407,"ODSS",2,"Sand/Dust","No",23
+407,"ODSS",2,"Vaccinations","Don't Know",23
+407,"OIF/OEF/OND",1,"Excessive Vibration","Yes",23
+407,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",24
+407,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",23
+407,"ODSS",2,"Weapons Exhaust","Yes",24
+254,"ODSS",0,"Animal Bodies","Yes",23
+254,"ODSS",0,"Anthrax Vaccine","Don't Know",25
+254,"OIF/OEF/OND",0,"Asbestos","No",23
+254,"ODSS",0,"Biological Warfare Agents","Yes",23
+254,"ODSS",0,"Animal Bites","Don't Know",24
+254,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",22
+254,"ODSS",2,"Burning Trash or Feces","Don't Know",23
+254,"OIF/OEF/OND",0,"Chemical Solvents","No",23
+254,"OIF/OEF/OND",0,"Chlorine Gas","No",23
+254,"ODSS",2,"Depleted Uranium","Don't Know",22
+254,"OIF/OEF/OND",1,"Fog Oils","No",22
+254,"ODSS",2,"Tent Heater Smoke","No",22
+254,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",24
+254,"ODSS",1,"Infectious Disease","Don't Know",23
+254,"ODSS",1,"Insect Bites","No",24
+254,"OIF/OEF/OND",1,"Lasers","No",22
+254,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",23
+254,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",24
+254,"ODSS",0,"Nerve Agent Antidotes","Don't Know",22
+254,"ODSS",2,"Loud Noises","Don't Know",24
+254,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",24
+254,"ODSS",2,"Paint","Don't Know",23
+254,"ODSS",1,"Pesticides","Yes",22
+254,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",23
+254,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",23
+254,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",23
+254,"ODSS",2,"Radar/Microwaves","Yes",23
+254,"ODSS",1,"Ionizing Radiation","Yes",24
+254,"OIF/OEF/OND",2,"Sand/Dust","No",21
+254,"OIF/OEF/OND",2,"Vaccinations","Yes",24
+254,"ODSS",1,"Excessive Vibration","Don't Know",22
+254,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",22
+254,"ODSS",0,"Chemical Weapons","Yes",23
+254,"ODSS",2,"Weapons Exhaust","Yes",24
+330,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",27
+330,"ODSS",0,"Anthrax Vaccine","No",27
+330,"OIF/OEF/OND",0,"Asbestos","Don't Know",28
+330,"ODSS",0,"Biological Warfare Agents","Don't Know",27
+330,"ODSS",0,"Animal Bites","Yes",27
+330,"ODSS",1,"Human Blood/Bodily Fluids","Yes",27
+330,"ODSS",2,"Burning Trash or Feces","Yes",27
+330,"ODSS",0,"Chemical Solvents","Yes",28
+330,"ODSS",0,"Chlorine Gas","No",27
+330,"ODSS",2,"Depleted Uranium","No",27
+330,"ODSS",1,"Fog Oils","Yes",27
+330,"ODSS",2,"Tent Heater Smoke","Don't Know",27
+330,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",28
+330,"OIF/OEF/OND",1,"Infectious Disease","Yes",28
+330,"OIF/OEF/OND",1,"Insect Bites","Yes",28
+330,"OIF/OEF/OND",1,"Lasers","Don't Know",28
+330,"ODSS",2,"Embedded Metal Fragments","Yes",27
+330,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",27
+330,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",27
+330,"OIF/OEF/OND",2,"Loud Noises","No",28
+330,"ODSS",1,"Ingestion of Contaminated Water","No",27
+330,"ODSS",2,"Paint","Don't Know",27
+330,"ODSS",1,"Pesticides","Yes",29
+330,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",27
+330,"ODSS",1,"Industrial Pollution","Don't Know",27
+330,"ODSS",2,"Prophylactic Meds","Yes",26
+330,"ODSS",2,"Radar/Microwaves","No",26
+330,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",27
+330,"ODSS",2,"Sand/Dust","Yes",28
+330,"ODSS",2,"Vaccinations","No",26
+330,"ODSS",1,"Excessive Vibration","Yes",26
+330,"ODSS",1,"Bathed in Contaminated Water","Don't Know",26
+330,"ODSS",0,"Chemical Weapons","Yes",28
+330,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",27
+135,"OIF/OEF/OND",0,"Animal Bodies","No",19
+135,"OIF/OEF/OND",0,"Anthrax Vaccine","No",17
+135,"OIF/OEF/OND",0,"Asbestos","Don't Know",18
+135,"OIF/OEF/OND",0,"Biological Warfare Agents","No",18
+135,"OIF/OEF/OND",0,"Animal Bites","No",15
+135,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",16
+135,"ODSS",2,"Burning Trash or Feces","No",18
+135,"ODSS",0,"Chemical Solvents","No",18
+135,"OIF/OEF/OND",0,"Chlorine Gas","Yes",17
+135,"OIF/OEF/OND",2,"Depleted Uranium","No",18
+135,"ODSS",1,"Fog Oils","No",18
+135,"ODSS",2,"Tent Heater Smoke","Yes",15
+135,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",17
+135,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",17
+135,"OIF/OEF/OND",1,"Insect Bites","Don't Know",17
+135,"OIF/OEF/OND",1,"Lasers","Don't Know",17
+135,"ODSS",3,"Embedded Metal Fragments","Yes",18
+135,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",15
+135,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",18
+135,"ODSS",2,"Loud Noises","Yes",17
+135,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",17
+135,"OIF/OEF/OND",2,"Paint","Yes",16
+135,"OIF/OEF/OND",1,"Pesticides","Don't Know",17
+135,"ODSS",2,"Petrochemical Fuels or Fumes","No",18
+135,"ODSS",1,"Industrial Pollution","No",17
+135,"ODSS",2,"Prophylactic Meds","Yes",17
+135,"ODSS",2,"Radar/Microwaves","Don't Know",18
+135,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",18
+135,"OIF/OEF/OND",2,"Sand/Dust","No",17
+135,"OIF/OEF/OND",2,"Vaccinations","No",16
+135,"ODSS",1,"Excessive Vibration","Yes",18
+135,"ODSS",1,"Bathed in Contaminated Water","Yes",16
+135,"ODSS",0,"Chemical Weapons","Yes",17
+135,"OIF/OEF/OND",2,"Weapons Exhaust","No",17
+72,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",21
+72,"ODSS",0,"Anthrax Vaccine","Don't Know",21
+72,"ODSS",0,"Asbestos","Don't Know",22
+72,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",22
+72,"ODSS",0,"Animal Bites","Don't Know",22
+72,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",22
+72,"OIF/OEF/OND",2,"Burning Trash or Feces","No",23
+72,"ODSS",0,"Chemical Solvents","No",22
+72,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",23
+72,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",21
+72,"ODSS",1,"Fog Oils","Don't Know",22
+72,"ODSS",2,"Tent Heater Smoke","Don't Know",22
+72,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",21
+72,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",22
+72,"ODSS",1,"Insect Bites","Yes",22
+72,"ODSS",1,"Lasers","No",22
+72,"ODSS",2,"Embedded Metal Fragments","No",22
+72,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",23
+72,"ODSS",0,"Nerve Agent Antidotes","Don't Know",22
+72,"OIF/OEF/OND",2,"Loud Noises","Don't Know",21
+72,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",20
+72,"ODSS",2,"Paint","Don't Know",23
+72,"ODSS",1,"Pesticides","Don't Know",21
+72,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",22
+72,"ODSS",1,"Industrial Pollution","Don't Know",21
+72,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",22
+72,"ODSS",2,"Radar/Microwaves","Yes",21
+72,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",22
+72,"OIF/OEF/OND",2,"Sand/Dust","No",21
+72,"ODSS",2,"Vaccinations","No",22
+72,"ODSS",1,"Excessive Vibration","No",21
+72,"ODSS",1,"Bathed in Contaminated Water","Don't Know",21
+72,"ODSS",0,"Chemical Weapons","No",22
+72,"ODSS",2,"Weapons Exhaust","Yes",22
+63,"OIF/OEF/OND",0,"Animal Bodies","No",23
+63,"ODSS",0,"Anthrax Vaccine","Yes",23
+63,"ODSS",0,"Asbestos","Yes",22
+63,"ODSS",0,"Biological Warfare Agents","Yes",24
+63,"OIF/OEF/OND",0,"Animal Bites","No",21
+63,"ODSS",1,"Human Blood/Bodily Fluids","Yes",22
+63,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",24
+63,"OIF/OEF/OND",0,"Chemical Solvents","Yes",23
+63,"OIF/OEF/OND",1,"Chlorine Gas","Don't Know",24
+63,"ODSS",2,"Depleted Uranium","No",22
+63,"OIF/OEF/OND",1,"Fog Oils","Yes",23
+63,"OIF/OEF/OND",2,"Tent Heater Smoke","No",22
+63,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",23
+63,"OIF/OEF/OND",1,"Infectious Disease","Yes",23
+63,"ODSS",1,"Insect Bites","Yes",22
+63,"ODSS",1,"Lasers","Yes",24
+63,"ODSS",2,"Embedded Metal Fragments","No",22
+63,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",23
+63,"ODSS",0,"Nerve Agent Antidotes","Don't Know",22
+63,"ODSS",2,"Loud Noises","No",23
+63,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",24
+63,"ODSS",2,"Paint","Don't Know",24
+63,"OIF/OEF/OND",1,"Pesticides","No",23
+63,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",24
+63,"ODSS",1,"Industrial Pollution","No",24
+63,"ODSS",2,"Prophylactic Meds","Don't Know",25
+63,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",24
+63,"ODSS",1,"Ionizing Radiation","Yes",23
+63,"ODSS",2,"Sand/Dust","Yes",22
+63,"ODSS",2,"Vaccinations","No",25
+63,"OIF/OEF/OND",1,"Excessive Vibration","Yes",23
+63,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",23
+63,"ODSS",0,"Chemical Weapons","Yes",23
+63,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",23
+409,"OIF/OEF/OND",0,"Animal Bodies","Yes",20
+409,"ODSS",0,"Anthrax Vaccine","Don't Know",19
+409,"ODSS",0,"Asbestos","Don't Know",19
+409,"ODSS",0,"Biological Warfare Agents","No",20
+409,"ODSS",0,"Animal Bites","No",19
+409,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",21
+409,"ODSS",2,"Burning Trash or Feces","No",20
+409,"ODSS",0,"Chemical Solvents","Yes",20
+409,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",20
+409,"ODSS",2,"Depleted Uranium","Don't Know",19
+409,"ODSS",1,"Fog Oils","Yes",19
+409,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",21
+409,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",20
+409,"ODSS",1,"Infectious Disease","Don't Know",21
+409,"ODSS",1,"Insect Bites","Yes",18
+409,"ODSS",1,"Lasers","No",20
+409,"ODSS",2,"Embedded Metal Fragments","Don't Know",19
+409,"ODSS",0,"Chemical Alarms/MOPP4","Yes",20
+409,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",20
+409,"ODSS",2,"Loud Noises","Don't Know",20
+409,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",20
+409,"ODSS",2,"Paint","No",20
+409,"ODSS",1,"Pesticides","Don't Know",19
+409,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",19
+409,"ODSS",1,"Industrial Pollution","Don't Know",20
+409,"ODSS",2,"Prophylactic Meds","Don't Know",20
+409,"ODSS",2,"Radar/Microwaves","Don't Know",20
+409,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",20
+409,"OIF/OEF/OND",2,"Sand/Dust","No",19
+409,"ODSS",2,"Vaccinations","Yes",21
+409,"OIF/OEF/OND",1,"Excessive Vibration","No",18
+409,"ODSS",1,"Bathed in Contaminated Water","Yes",19
+409,"ODSS",0,"Chemical Weapons","Don't Know",20
+409,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",21
+408,"ODSS",0,"Animal Bodies","Yes",14
+408,"ODSS",0,"Anthrax Vaccine","No",14
+408,"ODSS",0,"Asbestos","No",15
+408,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",14
+408,"ODSS",0,"Animal Bites","Don't Know",13
+408,"ODSS",1,"Human Blood/Bodily Fluids","Yes",15
+408,"ODSS",2,"Burning Trash or Feces","No",14
+408,"OIF/OEF/OND",0,"Chemical Solvents","Yes",15
+408,"ODSS",0,"Chlorine Gas","Yes",15
+408,"OIF/OEF/OND",2,"Depleted Uranium","Yes",14
+408,"OIF/OEF/OND",1,"Fog Oils","Yes",14
+408,"OIF/OEF/OND",2,"Tent Heater Smoke","No",15
+408,"ODSS",0,"Agent Orange or Other Herbicides","No",14
+408,"OIF/OEF/OND",1,"Infectious Disease","No",14
+408,"OIF/OEF/OND",1,"Insect Bites","Yes",15
+408,"ODSS",1,"Lasers","No",14
+408,"ODSS",2,"Embedded Metal Fragments","Don't Know",15
+408,"ODSS",0,"Chemical Alarms/MOPP4","Yes",15
+408,"OIF/OEF/OND",1,"Nerve Agent Antidotes","Don't Know",14
+408,"ODSS",2,"Loud Noises","Yes",13
+408,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",15
+408,"ODSS",2,"Paint","Don't Know",14
+408,"OIF/OEF/OND",1,"Pesticides","Don't Know",14
+408,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",13
+408,"ODSS",1,"Industrial Pollution","Don't Know",13
+408,"ODSS",2,"Prophylactic Meds","Don't Know",14
+408,"ODSS",2,"Radar/Microwaves","Yes",14
+408,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",14
+408,"ODSS",2,"Sand/Dust","Yes",15
+408,"OIF/OEF/OND",2,"Vaccinations","Yes",13
+408,"OIF/OEF/OND",1,"Excessive Vibration","No",14
+408,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",14
+408,"ODSS",0,"Chemical Weapons","No",14
+408,"OIF/OEF/OND",2,"Weapons Exhaust","No",16
+16,"OIF/OEF/OND",0,"Animal Bodies","Yes",27
+16,"ODSS",0,"Anthrax Vaccine","Yes",27
+16,"ODSS",0,"Asbestos","Yes",28
+16,"OIF/OEF/OND",0,"Biological Warfare Agents","No",27
+16,"OIF/OEF/OND",0,"Animal Bites","Yes",27
+16,"ODSS",1,"Human Blood/Bodily Fluids","Yes",26
+16,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",27
+16,"ODSS",0,"Chemical Solvents","Yes",27
+16,"ODSS",0,"Chlorine Gas","No",27
+16,"OIF/OEF/OND",2,"Depleted Uranium","Yes",27
+16,"OIF/OEF/OND",1,"Fog Oils","Don't Know",27
+16,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",27
+16,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",27
+16,"ODSS",1,"Infectious Disease","Don't Know",26
+16,"ODSS",1,"Insect Bites","No",28
+16,"ODSS",1,"Lasers","Don't Know",26
+16,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",27
+16,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",27
+16,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",28
+16,"ODSS",2,"Loud Noises","No",27
+16,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",28
+16,"OIF/OEF/OND",2,"Paint","Don't Know",27
+16,"ODSS",1,"Pesticides","Yes",27
+16,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",28
+16,"ODSS",1,"Industrial Pollution","Yes",26
+16,"ODSS",2,"Prophylactic Meds","Yes",28
+16,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",28
+16,"OIF/OEF/OND",1,"Ionizing Radiation","No",27
+16,"ODSS",2,"Sand/Dust","Yes",27
+16,"OIF/OEF/OND",2,"Vaccinations","No",26
+16,"OIF/OEF/OND",1,"Excessive Vibration","Yes",27
+16,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",27
+16,"ODSS",0,"Chemical Weapons","Don't Know",27
+16,"ODSS",2,"Weapons Exhaust","Yes",27
+13,"ODSS",0,"Animal Bodies","No",24
+13,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",26
+13,"OIF/OEF/OND",0,"Asbestos","Yes",25
+13,"ODSS",0,"Biological Warfare Agents","Yes",26
+13,"ODSS",0,"Animal Bites","No",25
+13,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",25
+13,"ODSS",2,"Burning Trash or Feces","Yes",25
+13,"OIF/OEF/OND",0,"Chemical Solvents","Yes",25
+13,"OIF/OEF/OND",1,"Chlorine Gas","Yes",26
+13,"OIF/OEF/OND",2,"Depleted Uranium","Yes",24
+13,"OIF/OEF/OND",1,"Fog Oils","Don't Know",25
+13,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",24
+13,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",26
+13,"OIF/OEF/OND",1,"Infectious Disease","No",26
+13,"ODSS",1,"Insect Bites","Don't Know",25
+13,"ODSS",1,"Lasers","No",25
+13,"ODSS",2,"Embedded Metal Fragments","Don't Know",25
+13,"ODSS",0,"Chemical Alarms/MOPP4","Yes",25
+13,"ODSS",0,"Nerve Agent Antidotes","Yes",25
+13,"ODSS",2,"Loud Noises","Yes",25
+13,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",24
+13,"OIF/OEF/OND",2,"Paint","Don't Know",24
+13,"OIF/OEF/OND",1,"Pesticides","No",24
+13,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",25
+13,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",25
+13,"ODSS",2,"Prophylactic Meds","Don't Know",24
+13,"ODSS",2,"Radar/Microwaves","Yes",25
+13,"OIF/OEF/OND",1,"Ionizing Radiation","No",26
+13,"ODSS",2,"Sand/Dust","No",25
+13,"ODSS",2,"Vaccinations","Yes",25
+13,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",25
+13,"ODSS",1,"Bathed in Contaminated Water","Don't Know",24
+13,"OIF/OEF/OND",0,"Chemical Weapons","No",26
+13,"ODSS",2,"Weapons Exhaust","No",26
+67,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",26
+67,"OIF/OEF/OND",0,"Anthrax Vaccine","No",27
+67,"ODSS",0,"Asbestos","No",26
+67,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",27
+67,"OIF/OEF/OND",0,"Animal Bites","Yes",26
+67,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",27
+67,"ODSS",2,"Burning Trash or Feces","Yes",26
+67,"ODSS",0,"Chemical Solvents","Don't Know",27
+67,"OIF/OEF/OND",0,"Chlorine Gas","Yes",26
+67,"OIF/OEF/OND",2,"Depleted Uranium","Yes",26
+67,"ODSS",1,"Fog Oils","No",26
+67,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",25
+67,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",26
+67,"ODSS",1,"Infectious Disease","Don't Know",25
+67,"OIF/OEF/OND",1,"Insect Bites","Yes",25
+67,"ODSS",1,"Lasers","No",26
+67,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",25
+67,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",28
+67,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",26
+67,"OIF/OEF/OND",2,"Loud Noises","Don't Know",24
+67,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",25
+67,"OIF/OEF/OND",2,"Paint","Yes",26
+67,"OIF/OEF/OND",1,"Pesticides","Yes",26
+67,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",26
+67,"ODSS",1,"Industrial Pollution","No",26
+67,"ODSS",2,"Prophylactic Meds","Yes",26
+67,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",25
+67,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",26
+67,"ODSS",2,"Sand/Dust","No",26
+67,"ODSS",2,"Vaccinations","Don't Know",26
+67,"OIF/OEF/OND",1,"Excessive Vibration","Yes",26
+67,"ODSS",1,"Bathed in Contaminated Water","Don't Know",26
+67,"ODSS",0,"Chemical Weapons","Don't Know",26
+67,"ODSS",2,"Weapons Exhaust","Yes",27
+160,"ODSS",0,"Animal Bodies","Yes",25
+160,"ODSS",1,"Anthrax Vaccine","Yes",26
+160,"ODSS",0,"Asbestos","Don't Know",27
+160,"ODSS",0,"Biological Warfare Agents","No",27
+160,"ODSS",0,"Animal Bites","No",26
+160,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",26
+160,"ODSS",2,"Burning Trash or Feces","Yes",26
+160,"ODSS",0,"Chemical Solvents","No",25
+160,"OIF/OEF/OND",0,"Chlorine Gas","Yes",26
+160,"ODSS",2,"Depleted Uranium","Yes",26
+160,"ODSS",1,"Fog Oils","Yes",26
+160,"ODSS",2,"Tent Heater Smoke","Don't Know",26
+160,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",27
+160,"OIF/OEF/OND",1,"Infectious Disease","No",24
+160,"ODSS",1,"Insect Bites","No",25
+160,"ODSS",1,"Lasers","Yes",25
+160,"ODSS",2,"Embedded Metal Fragments","Don't Know",27
+160,"ODSS",0,"Chemical Alarms/MOPP4","No",27
+160,"ODSS",0,"Nerve Agent Antidotes","No",25
+160,"ODSS",2,"Loud Noises","Don't Know",26
+160,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",26
+160,"OIF/OEF/OND",2,"Paint","Yes",28
+160,"ODSS",1,"Pesticides","Yes",27
+160,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",26
+160,"ODSS",1,"Industrial Pollution","Don't Know",25
+160,"ODSS",2,"Prophylactic Meds","Don't Know",27
+160,"ODSS",2,"Radar/Microwaves","No",27
+160,"OIF/OEF/OND",1,"Ionizing Radiation","No",26
+160,"OIF/OEF/OND",2,"Sand/Dust","No",26
+160,"OIF/OEF/OND",2,"Vaccinations","Don't Know",26
+160,"ODSS",1,"Excessive Vibration","Yes",26
+160,"ODSS",1,"Bathed in Contaminated Water","Yes",26
+160,"ODSS",0,"Chemical Weapons","Don't Know",26
+160,"ODSS",2,"Weapons Exhaust","No",26
+160,"OIF/OEF/OND",0,"Animal Bodies","Yes",27
+160,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",26
+160,"OIF/OEF/OND",0,"Asbestos","No",27
+160,"ODSS",0,"Biological Warfare Agents","Yes",27
+160,"ODSS",0,"Animal Bites","Yes",24
+160,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",26
+160,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",25
+160,"OIF/OEF/OND",0,"Chemical Solvents","Yes",26
+160,"OIF/OEF/OND",0,"Chlorine Gas","No",26
+160,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",25
+160,"OIF/OEF/OND",1,"Fog Oils","Yes",25
+160,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",25
+160,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",26
+160,"ODSS",1,"Infectious Disease","Yes",26
+160,"ODSS",1,"Insect Bites","Don't Know",27
+160,"ODSS",1,"Lasers","Don't Know",26
+160,"ODSS",2,"Embedded Metal Fragments","Yes",26
+160,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",27
+160,"ODSS",0,"Nerve Agent Antidotes","Don't Know",27
+160,"OIF/OEF/OND",2,"Loud Noises","Don't Know",26
+160,"ODSS",1,"Ingestion of Contaminated Water","No",27
+160,"ODSS",2,"Paint","No",26
+160,"OIF/OEF/OND",1,"Pesticides","Don't Know",26
+160,"ODSS",2,"Petrochemical Fuels or Fumes","No",25
+160,"ODSS",1,"Industrial Pollution","No",26
+160,"ODSS",2,"Prophylactic Meds","Don't Know",26
+160,"OIF/OEF/OND",2,"Radar/Microwaves","No",26
+160,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",26
+160,"OIF/OEF/OND",2,"Sand/Dust","No",26
+160,"ODSS",2,"Vaccinations","No",25
+160,"OIF/OEF/OND",1,"Excessive Vibration","No",25
+160,"ODSS",1,"Bathed in Contaminated Water","Yes",26
+160,"ODSS",0,"Chemical Weapons","Don't Know",25
+160,"ODSS",2,"Weapons Exhaust","Don't Know",26
+155,"ODSS",0,"Animal Bodies","Don't Know",26
+155,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",26
+155,"ODSS",0,"Asbestos","Don't Know",26
+155,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",25
+155,"OIF/OEF/OND",0,"Animal Bites","No",26
+155,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",26
+155,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",26
+155,"OIF/OEF/OND",0,"Chemical Solvents","Yes",26
+155,"OIF/OEF/OND",0,"Chlorine Gas","Yes",26
+155,"ODSS",2,"Depleted Uranium","Don't Know",25
+155,"OIF/OEF/OND",1,"Fog Oils","No",25
+155,"ODSS",2,"Tent Heater Smoke","Yes",27
+155,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",26
+155,"ODSS",1,"Infectious Disease","Don't Know",25
+155,"OIF/OEF/OND",1,"Insect Bites","Don't Know",25
+155,"OIF/OEF/OND",1,"Lasers","No",26
+155,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",25
+155,"ODSS",0,"Chemical Alarms/MOPP4","Yes",23
+155,"ODSS",0,"Nerve Agent Antidotes","Don't Know",27
+155,"ODSS",2,"Loud Noises","No",26
+155,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",26
+155,"OIF/OEF/OND",2,"Paint","No",27
+155,"ODSS",1,"Pesticides","Don't Know",27
+155,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",26
+155,"ODSS",1,"Industrial Pollution","No",26
+155,"ODSS",2,"Prophylactic Meds","Don't Know",26
+155,"ODSS",2,"Radar/Microwaves","No",27
+155,"ODSS",1,"Ionizing Radiation","Don't Know",26
+155,"ODSS",2,"Sand/Dust","Don't Know",27
+155,"ODSS",2,"Vaccinations","Don't Know",27
+155,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",25
+155,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",26
+155,"OIF/OEF/OND",0,"Chemical Weapons","Yes",26
+155,"ODSS",2,"Weapons Exhaust","Yes",25
+155,"OIF/OEF/OND",0,"Animal Bodies","Yes",26
+155,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",27
+155,"OIF/OEF/OND",0,"Asbestos","Don't Know",27
+155,"OIF/OEF/OND",0,"Biological Warfare Agents","No",26
+155,"OIF/OEF/OND",0,"Animal Bites","Don't Know",26
+155,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",25
+155,"ODSS",2,"Burning Trash or Feces","Yes",27
+155,"OIF/OEF/OND",0,"Chemical Solvents","Yes",26
+155,"ODSS",0,"Chlorine Gas","No",26
+155,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",25
+155,"OIF/OEF/OND",1,"Fog Oils","Don't Know",26
+155,"OIF/OEF/OND",2,"Tent Heater Smoke","No",26
+155,"ODSS",0,"Agent Orange or Other Herbicides","No",26
+155,"OIF/OEF/OND",1,"Infectious Disease","No",25
+155,"OIF/OEF/OND",1,"Insect Bites","Don't Know",26
+155,"ODSS",1,"Lasers","Don't Know",27
+155,"ODSS",2,"Embedded Metal Fragments","Don't Know",27
+155,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",27
+155,"ODSS",0,"Nerve Agent Antidotes","Don't Know",25
+155,"OIF/OEF/OND",2,"Loud Noises","No",26
+155,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",27
+155,"OIF/OEF/OND",2,"Paint","Don't Know",25
+155,"OIF/OEF/OND",1,"Pesticides","Don't Know",27
+155,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",27
+155,"OIF/OEF/OND",1,"Industrial Pollution","No",27
+155,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",26
+155,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",27
+155,"OIF/OEF/OND",1,"Ionizing Radiation","No",28
+155,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",26
+155,"OIF/OEF/OND",2,"Vaccinations","No",26
+155,"ODSS",1,"Excessive Vibration","Yes",25
+155,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",26
+155,"OIF/OEF/OND",0,"Chemical Weapons","No",26
+155,"ODSS",2,"Weapons Exhaust","No",26
+164,"ODSS",0,"Animal Bodies","Yes",22
+164,"ODSS",0,"Anthrax Vaccine","Yes",22
+164,"OIF/OEF/OND",0,"Asbestos","No",22
+164,"ODSS",0,"Biological Warfare Agents","No",22
+164,"ODSS",0,"Animal Bites","Don't Know",22
+164,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",22
+164,"OIF/OEF/OND",2,"Burning Trash or Feces","No",23
+164,"OIF/OEF/OND",0,"Chemical Solvents","Yes",20
+164,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",21
+164,"OIF/OEF/OND",2,"Depleted Uranium","Yes",21
+164,"ODSS",1,"Fog Oils","Yes",22
+164,"ODSS",2,"Tent Heater Smoke","Yes",22
+164,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",23
+164,"ODSS",1,"Infectious Disease","No",22
+164,"ODSS",1,"Insect Bites","Yes",20
+164,"OIF/OEF/OND",1,"Lasers","Yes",22
+164,"ODSS",2,"Embedded Metal Fragments","Yes",23
+164,"ODSS",0,"Chemical Alarms/MOPP4","No",22
+164,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",22
+164,"OIF/OEF/OND",2,"Loud Noises","Don't Know",22
+164,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",21
+164,"ODSS",2,"Paint","Don't Know",22
+164,"OIF/OEF/OND",1,"Pesticides","No",22
+164,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",22
+164,"ODSS",1,"Industrial Pollution","Yes",22
+164,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",21
+164,"OIF/OEF/OND",2,"Radar/Microwaves","No",22
+164,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",22
+164,"OIF/OEF/OND",2,"Sand/Dust","Yes",22
+164,"OIF/OEF/OND",2,"Vaccinations","No",24
+164,"OIF/OEF/OND",1,"Excessive Vibration","No",21
+164,"ODSS",1,"Bathed in Contaminated Water","Don't Know",21
+164,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",21
+164,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",22
+52,"ODSS",0,"Animal Bodies","Yes",21
+52,"ODSS",0,"Anthrax Vaccine","No",22
+52,"ODSS",0,"Asbestos","Don't Know",22
+52,"OIF/OEF/OND",0,"Biological Warfare Agents","No",22
+52,"OIF/OEF/OND",0,"Animal Bites","Don't Know",22
+52,"ODSS",1,"Human Blood/Bodily Fluids","Yes",22
+52,"ODSS",2,"Burning Trash or Feces","Don't Know",21
+52,"ODSS",0,"Chemical Solvents","Don't Know",23
+52,"OIF/OEF/OND",0,"Chlorine Gas","Yes",22
+52,"OIF/OEF/OND",2,"Depleted Uranium","No",22
+52,"OIF/OEF/OND",1,"Fog Oils","Don't Know",22
+52,"ODSS",2,"Tent Heater Smoke","No",23
+52,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",23
+52,"ODSS",1,"Infectious Disease","Don't Know",20
+52,"OIF/OEF/OND",1,"Insect Bites","Don't Know",22
+52,"OIF/OEF/OND",1,"Lasers","Yes",23
+52,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",22
+52,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",23
+52,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",21
+52,"OIF/OEF/OND",2,"Loud Noises","Yes",22
+52,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",22
+52,"ODSS",2,"Paint","No",23
+52,"OIF/OEF/OND",1,"Pesticides","No",22
+52,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",23
+52,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",22
+52,"ODSS",2,"Prophylactic Meds","No",24
+52,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",23
+52,"OIF/OEF/OND",1,"Ionizing Radiation","No",22
+52,"ODSS",2,"Sand/Dust","No",22
+52,"OIF/OEF/OND",2,"Vaccinations","Don't Know",23
+52,"OIF/OEF/OND",1,"Excessive Vibration","No",22
+52,"ODSS",1,"Bathed in Contaminated Water","Don't Know",21
+52,"OIF/OEF/OND",0,"Chemical Weapons","No",22
+52,"ODSS",2,"Weapons Exhaust","Don't Know",23
+368,"OIF/OEF/OND",0,"Animal Bodies","Yes",21
+368,"ODSS",0,"Anthrax Vaccine","Yes",21
+368,"OIF/OEF/OND",0,"Asbestos","No",21
+368,"ODSS",0,"Biological Warfare Agents","Yes",22
+368,"ODSS",0,"Animal Bites","Don't Know",21
+368,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",20
+368,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",21
+368,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",21
+368,"OIF/OEF/OND",0,"Chlorine Gas","No",20
+368,"OIF/OEF/OND",2,"Depleted Uranium","No",21
+368,"ODSS",1,"Fog Oils","Yes",20
+368,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",21
+368,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",20
+368,"OIF/OEF/OND",1,"Infectious Disease","Yes",21
+368,"ODSS",1,"Insect Bites","No",21
+368,"ODSS",1,"Lasers","Yes",22
+368,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",20
+368,"ODSS",0,"Chemical Alarms/MOPP4","Yes",21
+368,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",22
+368,"ODSS",2,"Loud Noises","Don't Know",21
+368,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",21
+368,"OIF/OEF/OND",2,"Paint","Don't Know",21
+368,"ODSS",1,"Pesticides","Yes",22
+368,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",21
+368,"ODSS",1,"Industrial Pollution","Yes",21
+368,"ODSS",2,"Prophylactic Meds","Don't Know",21
+368,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",21
+368,"OIF/OEF/OND",1,"Ionizing Radiation","No",21
+368,"OIF/OEF/OND",2,"Sand/Dust","Yes",20
+368,"OIF/OEF/OND",2,"Vaccinations","No",20
+368,"ODSS",1,"Excessive Vibration","No",21
+368,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",21
+368,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",22
+368,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",21
+237,"ODSS",0,"Animal Bodies","Yes",20
+237,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",18
+237,"OIF/OEF/OND",0,"Asbestos","No",18
+237,"ODSS",0,"Biological Warfare Agents","No",19
+237,"ODSS",0,"Animal Bites","Yes",20
+237,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",19
+237,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",20
+237,"ODSS",0,"Chemical Solvents","No",20
+237,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",20
+237,"ODSS",2,"Depleted Uranium","No",19
+237,"OIF/OEF/OND",1,"Fog Oils","Don't Know",19
+237,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",19
+237,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",20
+237,"OIF/OEF/OND",1,"Infectious Disease","Yes",18
+237,"OIF/OEF/OND",1,"Insect Bites","Yes",20
+237,"OIF/OEF/OND",1,"Lasers","No",19
+237,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",18
+237,"ODSS",0,"Chemical Alarms/MOPP4","No",19
+237,"ODSS",0,"Nerve Agent Antidotes","No",20
+237,"ODSS",2,"Loud Noises","No",19
+237,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",19
+237,"OIF/OEF/OND",2,"Paint","No",19
+237,"ODSS",1,"Pesticides","Yes",18
+237,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",19
+237,"ODSS",1,"Industrial Pollution","Don't Know",19
+237,"ODSS",2,"Prophylactic Meds","Yes",20
+237,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",18
+237,"ODSS",1,"Ionizing Radiation","Don't Know",19
+237,"ODSS",2,"Sand/Dust","No",20
+237,"ODSS",2,"Vaccinations","Yes",18
+237,"ODSS",1,"Excessive Vibration","Don't Know",19
+237,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",19
+237,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",20
+237,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",18
+298,"ODSS",0,"Animal Bodies","Don't Know",25
+298,"ODSS",0,"Anthrax Vaccine","Don't Know",24
+298,"OIF/OEF/OND",0,"Asbestos","No",24
+298,"ODSS",0,"Biological Warfare Agents","No",24
+298,"ODSS",0,"Animal Bites","Don't Know",24
+298,"ODSS",1,"Human Blood/Bodily Fluids","Yes",23
+298,"ODSS",2,"Burning Trash or Feces","Yes",24
+298,"ODSS",0,"Chemical Solvents","No",25
+298,"ODSS",0,"Chlorine Gas","Don't Know",24
+298,"ODSS",2,"Depleted Uranium","No",24
+298,"ODSS",1,"Fog Oils","Don't Know",23
+298,"ODSS",2,"Tent Heater Smoke","Don't Know",24
+298,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",25
+298,"OIF/OEF/OND",1,"Infectious Disease","No",24
+298,"OIF/OEF/OND",1,"Insect Bites","Yes",24
+298,"ODSS",1,"Lasers","Don't Know",25
+298,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",22
+298,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",24
+298,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",24
+298,"OIF/OEF/OND",2,"Loud Noises","No",24
+298,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",24
+298,"OIF/OEF/OND",2,"Paint","No",23
+298,"ODSS",1,"Pesticides","Yes",24
+298,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",23
+298,"OIF/OEF/OND",1,"Industrial Pollution","No",23
+298,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",25
+298,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",24
+298,"OIF/OEF/OND",1,"Ionizing Radiation","No",25
+298,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",25
+298,"OIF/OEF/OND",2,"Vaccinations","Yes",25
+298,"ODSS",1,"Excessive Vibration","No",25
+298,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",23
+298,"ODSS",0,"Chemical Weapons","No",23
+298,"ODSS",2,"Weapons Exhaust","No",24
+146,"ODSS",0,"Animal Bodies","Yes",20
+146,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",20
+146,"OIF/OEF/OND",0,"Asbestos","Yes",19
+146,"ODSS",0,"Biological Warfare Agents","No",21
+146,"ODSS",0,"Animal Bites","Yes",20
+146,"ODSS",1,"Human Blood/Bodily Fluids","Yes",20
+146,"ODSS",2,"Burning Trash or Feces","Yes",21
+146,"ODSS",0,"Chemical Solvents","Don't Know",19
+146,"ODSS",0,"Chlorine Gas","Don't Know",19
+146,"OIF/OEF/OND",2,"Depleted Uranium","Yes",19
+146,"ODSS",1,"Fog Oils","No",20
+146,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",21
+146,"ODSS",0,"Agent Orange or Other Herbicides","Yes",21
+146,"OIF/OEF/OND",1,"Infectious Disease","No",20
+146,"OIF/OEF/OND",1,"Insect Bites","No",20
+146,"OIF/OEF/OND",1,"Lasers","Yes",21
+146,"ODSS",2,"Embedded Metal Fragments","Yes",20
+146,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",21
+146,"ODSS",0,"Nerve Agent Antidotes","No",19
+146,"OIF/OEF/OND",2,"Loud Noises","Don't Know",20
+146,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",19
+146,"OIF/OEF/OND",2,"Paint","Yes",22
+146,"ODSS",1,"Pesticides","No",20
+146,"ODSS",2,"Petrochemical Fuels or Fumes","No",19
+146,"OIF/OEF/OND",1,"Industrial Pollution","No",21
+146,"ODSS",2,"Prophylactic Meds","Yes",19
+146,"ODSS",2,"Radar/Microwaves","No",19
+146,"OIF/OEF/OND",1,"Ionizing Radiation","No",20
+146,"OIF/OEF/OND",2,"Sand/Dust","Yes",19
+146,"ODSS",2,"Vaccinations","No",20
+146,"ODSS",1,"Excessive Vibration","Yes",19
+146,"ODSS",1,"Bathed in Contaminated Water","Yes",20
+146,"ODSS",0,"Chemical Weapons","Don't Know",21
+146,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",19
+225,"ODSS",0,"Animal Bodies","Don't Know",21
+225,"OIF/OEF/OND",0,"Anthrax Vaccine","No",20
+225,"ODSS",0,"Asbestos","Don't Know",21
+225,"OIF/OEF/OND",0,"Biological Warfare Agents","No",21
+225,"OIF/OEF/OND",0,"Animal Bites","Don't Know",22
+225,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",20
+225,"ODSS",2,"Burning Trash or Feces","Yes",22
+225,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",22
+225,"OIF/OEF/OND",0,"Chlorine Gas","No",20
+225,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",20
+225,"OIF/OEF/OND",1,"Fog Oils","Yes",21
+225,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",20
+225,"ODSS",0,"Agent Orange or Other Herbicides","Yes",23
+225,"ODSS",1,"Infectious Disease","Yes",22
+225,"ODSS",1,"Insect Bites","Yes",21
+225,"ODSS",1,"Lasers","No",21
+225,"ODSS",2,"Embedded Metal Fragments","Don't Know",20
+225,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",21
+225,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",21
+225,"ODSS",2,"Loud Noises","Yes",20
+225,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",20
+225,"ODSS",2,"Paint","Don't Know",20
+225,"OIF/OEF/OND",1,"Pesticides","Yes",23
+225,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",20
+225,"ODSS",1,"Industrial Pollution","Don't Know",21
+225,"ODSS",2,"Prophylactic Meds","Yes",20
+225,"ODSS",2,"Radar/Microwaves","Yes",21
+225,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",22
+225,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",22
+225,"ODSS",2,"Vaccinations","Don't Know",20
+225,"ODSS",1,"Excessive Vibration","No",21
+225,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",21
+225,"ODSS",0,"Chemical Weapons","Don't Know",21
+225,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",22
+176,"ODSS",0,"Animal Bodies","No",20
+176,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",23
+176,"ODSS",0,"Asbestos","No",23
+176,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",21
+176,"ODSS",0,"Animal Bites","Don't Know",22
+176,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",23
+176,"ODSS",2,"Burning Trash or Feces","Don't Know",23
+176,"ODSS",0,"Chemical Solvents","Don't Know",22
+176,"ODSS",0,"Chlorine Gas","Yes",22
+176,"OIF/OEF/OND",2,"Depleted Uranium","No",22
+176,"OIF/OEF/OND",1,"Fog Oils","Yes",23
+176,"ODSS",2,"Tent Heater Smoke","Don't Know",22
+176,"ODSS",0,"Agent Orange or Other Herbicides","Yes",22
+176,"ODSS",1,"Infectious Disease","Yes",22
+176,"OIF/OEF/OND",1,"Insect Bites","Yes",21
+176,"ODSS",1,"Lasers","Don't Know",22
+176,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",21
+176,"ODSS",0,"Chemical Alarms/MOPP4","Yes",23
+176,"ODSS",0,"Nerve Agent Antidotes","No",22
+176,"ODSS",2,"Loud Noises","Don't Know",22
+176,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",23
+176,"OIF/OEF/OND",2,"Paint","Don't Know",23
+176,"OIF/OEF/OND",1,"Pesticides","No",22
+176,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",23
+176,"OIF/OEF/OND",1,"Industrial Pollution","No",23
+176,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",21
+176,"ODSS",2,"Radar/Microwaves","No",23
+176,"ODSS",1,"Ionizing Radiation","Yes",21
+176,"ODSS",2,"Sand/Dust","Don't Know",21
+176,"ODSS",2,"Vaccinations","No",22
+176,"OIF/OEF/OND",1,"Excessive Vibration","No",22
+176,"ODSS",1,"Bathed in Contaminated Water","Yes",22
+176,"OIF/OEF/OND",0,"Chemical Weapons","No",22
+176,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",22
+203,"ODSS",0,"Animal Bodies","Yes",22
+203,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",21
+203,"OIF/OEF/OND",0,"Asbestos","No",22
+203,"ODSS",0,"Biological Warfare Agents","Don't Know",22
+203,"ODSS",0,"Animal Bites","Yes",23
+203,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",21
+203,"ODSS",2,"Burning Trash or Feces","No",22
+203,"ODSS",0,"Chemical Solvents","Don't Know",21
+203,"OIF/OEF/OND",0,"Chlorine Gas","Yes",22
+203,"OIF/OEF/OND",2,"Depleted Uranium","No",21
+203,"ODSS",1,"Fog Oils","No",22
+203,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",21
+203,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",21
+203,"OIF/OEF/OND",1,"Infectious Disease","Yes",24
+203,"ODSS",1,"Insect Bites","No",22
+203,"ODSS",1,"Lasers","Yes",22
+203,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",20
+203,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",21
+203,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",22
+203,"OIF/OEF/OND",2,"Loud Noises","No",20
+203,"ODSS",1,"Ingestion of Contaminated Water","Yes",22
+203,"ODSS",2,"Paint","Don't Know",23
+203,"ODSS",1,"Pesticides","No",22
+203,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",23
+203,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",22
+203,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",21
+203,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",21
+203,"ODSS",1,"Ionizing Radiation","Yes",22
+203,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",22
+203,"OIF/OEF/OND",2,"Vaccinations","No",22
+203,"ODSS",1,"Excessive Vibration","Yes",22
+203,"ODSS",1,"Bathed in Contaminated Water","Don't Know",21
+203,"OIF/OEF/OND",0,"Chemical Weapons","Yes",22
+203,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",23
+130,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",27
+130,"ODSS",0,"Anthrax Vaccine","No",27
+130,"ODSS",0,"Asbestos","No",27
+130,"ODSS",0,"Biological Warfare Agents","Yes",27
+130,"ODSS",0,"Animal Bites","Don't Know",27
+130,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",27
+130,"ODSS",2,"Burning Trash or Feces","No",27
+130,"OIF/OEF/OND",0,"Chemical Solvents","Yes",27
+130,"ODSS",0,"Chlorine Gas","No",28
+130,"ODSS",2,"Depleted Uranium","No",28
+130,"ODSS",1,"Fog Oils","Don't Know",28
+130,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",27
+130,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",27
+130,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",27
+130,"OIF/OEF/OND",1,"Insect Bites","No",26
+130,"ODSS",1,"Lasers","Don't Know",27
+130,"ODSS",2,"Embedded Metal Fragments","Don't Know",26
+130,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",26
+130,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",26
+130,"ODSS",2,"Loud Noises","No",26
+130,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",27
+130,"ODSS",2,"Paint","Yes",27
+130,"ODSS",1,"Pesticides","Yes",26
+130,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",27
+130,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",28
+130,"OIF/OEF/OND",2,"Prophylactic Meds","No",27
+130,"ODSS",2,"Radar/Microwaves","Yes",27
+130,"ODSS",1,"Ionizing Radiation","Don't Know",26
+130,"ODSS",2,"Sand/Dust","No",27
+130,"ODSS",2,"Vaccinations","Don't Know",26
+130,"ODSS",1,"Excessive Vibration","No",27
+130,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",27
+130,"OIF/OEF/OND",0,"Chemical Weapons","Yes",27
+130,"ODSS",2,"Weapons Exhaust","Don't Know",28
+112,"OIF/OEF/OND",0,"Animal Bodies","Yes",19
+112,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",19
+112,"ODSS",0,"Asbestos","Yes",19
+112,"ODSS",0,"Biological Warfare Agents","No",18
+112,"ODSS",0,"Animal Bites","Don't Know",20
+112,"ODSS",1,"Human Blood/Bodily Fluids","Yes",20
+112,"ODSS",2,"Burning Trash or Feces","No",20
+112,"ODSS",0,"Chemical Solvents","Yes",21
+112,"ODSS",0,"Chlorine Gas","Yes",19
+112,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",19
+112,"OIF/OEF/OND",1,"Fog Oils","No",19
+112,"ODSS",2,"Tent Heater Smoke","Don't Know",20
+112,"ODSS",0,"Agent Orange or Other Herbicides","No",18
+112,"ODSS",1,"Infectious Disease","Yes",17
+112,"ODSS",1,"Insect Bites","Yes",18
+112,"ODSS",1,"Lasers","Don't Know",20
+112,"ODSS",2,"Embedded Metal Fragments","Yes",20
+112,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",20
+112,"ODSS",0,"Nerve Agent Antidotes","Yes",19
+112,"OIF/OEF/OND",2,"Loud Noises","No",19
+112,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",18
+112,"ODSS",2,"Paint","No",20
+112,"ODSS",1,"Pesticides","Don't Know",19
+112,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",19
+112,"OIF/OEF/OND",1,"Industrial Pollution","No",19
+112,"ODSS",2,"Prophylactic Meds","Yes",19
+112,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",19
+112,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",19
+112,"OIF/OEF/OND",2,"Sand/Dust","No",18
+112,"OIF/OEF/OND",2,"Vaccinations","Don't Know",19
+112,"ODSS",1,"Excessive Vibration","Don't Know",19
+112,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",19
+112,"ODSS",0,"Chemical Weapons","Yes",18
+112,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",18
+333,"ODSS",0,"Animal Bodies","Don't Know",25
+333,"ODSS",0,"Anthrax Vaccine","Don't Know",25
+333,"ODSS",0,"Asbestos","Don't Know",25
+333,"ODSS",0,"Biological Warfare Agents","Yes",26
+333,"OIF/OEF/OND",0,"Animal Bites","Don't Know",24
+333,"ODSS",1,"Human Blood/Bodily Fluids","No",25
+333,"OIF/OEF/OND",2,"Burning Trash or Feces","No",25
+333,"ODSS",0,"Chemical Solvents","Yes",25
+333,"ODSS",0,"Chlorine Gas","Yes",24
+333,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",25
+333,"ODSS",1,"Fog Oils","Don't Know",24
+333,"ODSS",2,"Tent Heater Smoke","Yes",25
+333,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",24
+333,"ODSS",1,"Infectious Disease","Yes",25
+333,"ODSS",1,"Insect Bites","Don't Know",26
+333,"ODSS",1,"Lasers","Yes",26
+333,"ODSS",2,"Embedded Metal Fragments","No",23
+333,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",25
+333,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",24
+333,"OIF/OEF/OND",2,"Loud Noises","Yes",25
+333,"ODSS",1,"Ingestion of Contaminated Water","Yes",25
+333,"OIF/OEF/OND",2,"Paint","Yes",26
+333,"OIF/OEF/OND",1,"Pesticides","No",24
+333,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",26
+333,"OIF/OEF/OND",1,"Industrial Pollution","Yes",27
+333,"OIF/OEF/OND",2,"Prophylactic Meds","No",26
+333,"ODSS",2,"Radar/Microwaves","Yes",25
+333,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",25
+333,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",25
+333,"ODSS",2,"Vaccinations","No",26
+333,"ODSS",1,"Excessive Vibration","Yes",25
+333,"ODSS",1,"Bathed in Contaminated Water","Yes",26
+333,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",25
+333,"OIF/OEF/OND",2,"Weapons Exhaust","No",25
+35,"OIF/OEF/OND",0,"Animal Bodies","No",21
+35,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",20
+35,"OIF/OEF/OND",0,"Asbestos","Don't Know",19
+35,"ODSS",0,"Biological Warfare Agents","No",20
+35,"OIF/OEF/OND",0,"Animal Bites","No",20
+35,"ODSS",1,"Human Blood/Bodily Fluids","No",20
+35,"ODSS",2,"Burning Trash or Feces","No",20
+35,"ODSS",0,"Chemical Solvents","Yes",20
+35,"OIF/OEF/OND",0,"Chlorine Gas","No",19
+35,"ODSS",2,"Depleted Uranium","Yes",19
+35,"ODSS",1,"Fog Oils","Don't Know",20
+35,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",20
+35,"ODSS",0,"Agent Orange or Other Herbicides","No",19
+35,"ODSS",1,"Infectious Disease","Yes",20
+35,"ODSS",1,"Insect Bites","Yes",18
+35,"ODSS",1,"Lasers","Yes",20
+35,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",22
+35,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",20
+35,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",21
+35,"OIF/OEF/OND",2,"Loud Noises","Yes",19
+35,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",20
+35,"OIF/OEF/OND",2,"Paint","Yes",19
+35,"OIF/OEF/OND",1,"Pesticides","Yes",20
+35,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",19
+35,"ODSS",1,"Industrial Pollution","Yes",20
+35,"ODSS",2,"Prophylactic Meds","Don't Know",21
+35,"ODSS",2,"Radar/Microwaves","Yes",19
+35,"ODSS",1,"Ionizing Radiation","No",19
+35,"ODSS",2,"Sand/Dust","Don't Know",20
+35,"ODSS",2,"Vaccinations","No",19
+35,"OIF/OEF/OND",1,"Excessive Vibration","Yes",19
+35,"ODSS",1,"Bathed in Contaminated Water","Don't Know",20
+35,"ODSS",0,"Chemical Weapons","Yes",21
+35,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",18
+87,"OIF/OEF/OND",0,"Animal Bodies","No",19
+87,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",19
+87,"OIF/OEF/OND",0,"Asbestos","Yes",17
+87,"ODSS",0,"Biological Warfare Agents","Yes",18
+87,"ODSS",0,"Animal Bites","Yes",19
+87,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",17
+87,"ODSS",2,"Burning Trash or Feces","Yes",16
+87,"OIF/OEF/OND",0,"Chemical Solvents","No",18
+87,"ODSS",0,"Chlorine Gas","No",18
+87,"OIF/OEF/OND",2,"Depleted Uranium","No",19
+87,"ODSS",1,"Fog Oils","Yes",18
+87,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",18
+87,"ODSS",0,"Agent Orange or Other Herbicides","Yes",18
+87,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",18
+87,"OIF/OEF/OND",1,"Insect Bites","No",18
+87,"ODSS",1,"Lasers","Yes",18
+87,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",17
+87,"ODSS",0,"Chemical Alarms/MOPP4","Yes",18
+87,"ODSS",0,"Nerve Agent Antidotes","No",16
+87,"OIF/OEF/OND",2,"Loud Noises","Don't Know",19
+87,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",19
+87,"ODSS",2,"Paint","Don't Know",18
+87,"ODSS",1,"Pesticides","Yes",18
+87,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",18
+87,"ODSS",1,"Industrial Pollution","Don't Know",17
+87,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",18
+87,"ODSS",2,"Radar/Microwaves","No",18
+87,"ODSS",1,"Ionizing Radiation","Don't Know",17
+87,"OIF/OEF/OND",2,"Sand/Dust","Yes",18
+87,"ODSS",2,"Vaccinations","Yes",18
+87,"OIF/OEF/OND",1,"Excessive Vibration","No",17
+87,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",18
+87,"OIF/OEF/OND",0,"Chemical Weapons","Yes",19
+87,"ODSS",2,"Weapons Exhaust","Yes",18
+292,"OIF/OEF/OND",0,"Animal Bodies","No",23
+292,"OIF/OEF/OND",0,"Anthrax Vaccine","No",22
+292,"OIF/OEF/OND",0,"Asbestos","No",22
+292,"ODSS",0,"Biological Warfare Agents","Yes",21
+292,"ODSS",0,"Animal Bites","Yes",22
+292,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",21
+292,"ODSS",2,"Burning Trash or Feces","Don't Know",23
+292,"ODSS",0,"Chemical Solvents","Don't Know",23
+292,"OIF/OEF/OND",0,"Chlorine Gas","No",23
+292,"ODSS",2,"Depleted Uranium","Yes",21
+292,"OIF/OEF/OND",1,"Fog Oils","No",23
+292,"ODSS",2,"Tent Heater Smoke","No",23
+292,"ODSS",0,"Agent Orange or Other Herbicides","No",21
+292,"OIF/OEF/OND",1,"Infectious Disease","Yes",21
+292,"ODSS",1,"Insect Bites","Don't Know",23
+292,"ODSS",1,"Lasers","No",22
+292,"ODSS",2,"Embedded Metal Fragments","Don't Know",21
+292,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",22
+292,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",21
+292,"ODSS",2,"Loud Noises","Don't Know",22
+292,"ODSS",1,"Ingestion of Contaminated Water","No",22
+292,"OIF/OEF/OND",2,"Paint","No",23
+292,"ODSS",1,"Pesticides","Yes",21
+292,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",23
+292,"OIF/OEF/OND",1,"Industrial Pollution","Yes",22
+292,"OIF/OEF/OND",2,"Prophylactic Meds","No",22
+292,"ODSS",2,"Radar/Microwaves","Yes",23
+292,"OIF/OEF/OND",1,"Ionizing Radiation","No",22
+292,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",22
+292,"ODSS",2,"Vaccinations","Yes",21
+292,"ODSS",1,"Excessive Vibration","Yes",22
+292,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",22
+292,"ODSS",0,"Chemical Weapons","Don't Know",22
+292,"ODSS",2,"Weapons Exhaust","Don't Know",21
+111,"OIF/OEF/OND",0,"Animal Bodies","No",21
+111,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",22
+111,"ODSS",0,"Asbestos","No",21
+111,"OIF/OEF/OND",0,"Biological Warfare Agents","No",21
+111,"ODSS",0,"Animal Bites","No",19
+111,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",22
+111,"OIF/OEF/OND",2,"Burning Trash or Feces","No",22
+111,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",21
+111,"OIF/OEF/OND",0,"Chlorine Gas","Yes",21
+111,"ODSS",2,"Depleted Uranium","Don't Know",21
+111,"OIF/OEF/OND",1,"Fog Oils","No",21
+111,"ODSS",2,"Tent Heater Smoke","No",21
+111,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",21
+111,"ODSS",1,"Infectious Disease","Don't Know",22
+111,"OIF/OEF/OND",1,"Insect Bites","Don't Know",22
+111,"OIF/OEF/OND",1,"Lasers","Don't Know",21
+111,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",21
+111,"ODSS",0,"Chemical Alarms/MOPP4","Yes",21
+111,"ODSS",0,"Nerve Agent Antidotes","No",22
+111,"ODSS",2,"Loud Noises","Don't Know",20
+111,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",20
+111,"ODSS",2,"Paint","Don't Know",21
+111,"OIF/OEF/OND",1,"Pesticides","Don't Know",19
+111,"ODSS",2,"Petrochemical Fuels or Fumes","No",21
+111,"ODSS",1,"Industrial Pollution","No",22
+111,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",21
+111,"ODSS",2,"Radar/Microwaves","No",21
+111,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",22
+111,"ODSS",2,"Sand/Dust","Yes",21
+111,"OIF/OEF/OND",2,"Vaccinations","Yes",22
+111,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",21
+111,"ODSS",1,"Bathed in Contaminated Water","Yes",22
+111,"OIF/OEF/OND",0,"Chemical Weapons","Yes",21
+111,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",20
+300,"OIF/OEF/OND",1,"Animal Bodies","No",16
+300,"ODSS",0,"Anthrax Vaccine","Yes",15
+300,"OIF/OEF/OND",0,"Asbestos","Don't Know",15
+300,"ODSS",0,"Biological Warfare Agents","No",15
+300,"ODSS",0,"Animal Bites","Yes",17
+300,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",16
+300,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",17
+300,"OIF/OEF/OND",0,"Chemical Solvents","Yes",17
+300,"ODSS",0,"Chlorine Gas","Don't Know",17
+300,"OIF/OEF/OND",2,"Depleted Uranium","No",15
+300,"OIF/OEF/OND",1,"Fog Oils","No",17
+300,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",16
+300,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",17
+300,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",16
+300,"ODSS",1,"Insect Bites","Don't Know",16
+300,"OIF/OEF/OND",1,"Lasers","Yes",17
+300,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",15
+300,"ODSS",0,"Chemical Alarms/MOPP4","Yes",15
+300,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",16
+300,"ODSS",2,"Loud Noises","No",17
+300,"ODSS",1,"Ingestion of Contaminated Water","Yes",16
+300,"ODSS",2,"Paint","Don't Know",16
+300,"OIF/OEF/OND",1,"Pesticides","Yes",17
+300,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",16
+300,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",15
+300,"ODSS",2,"Prophylactic Meds","No",17
+300,"OIF/OEF/OND",2,"Radar/Microwaves","No",16
+300,"ODSS",1,"Ionizing Radiation","Yes",16
+300,"ODSS",2,"Sand/Dust","Yes",15
+300,"ODSS",2,"Vaccinations","Don't Know",16
+300,"ODSS",1,"Excessive Vibration","No",15
+300,"ODSS",1,"Bathed in Contaminated Water","Don't Know",16
+300,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",15
+300,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",16
+354,"ODSS",0,"Animal Bodies","Don't Know",20
+354,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",19
+354,"ODSS",0,"Asbestos","Yes",20
+354,"ODSS",0,"Biological Warfare Agents","No",18
+354,"ODSS",0,"Animal Bites","Yes",20
+354,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",19
+354,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",19
+354,"ODSS",0,"Chemical Solvents","No",19
+354,"ODSS",0,"Chlorine Gas","No",20
+354,"OIF/OEF/OND",2,"Depleted Uranium","No",21
+354,"ODSS",1,"Fog Oils","No",20
+354,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",20
+354,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",20
+354,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",20
+354,"OIF/OEF/OND",1,"Insect Bites","Don't Know",21
+354,"OIF/OEF/OND",1,"Lasers","No",19
+354,"ODSS",2,"Embedded Metal Fragments","Yes",21
+354,"ODSS",0,"Chemical Alarms/MOPP4","Yes",22
+354,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",20
+354,"ODSS",2,"Loud Noises","No",20
+354,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",20
+354,"ODSS",2,"Paint","No",20
+354,"OIF/OEF/OND",1,"Pesticides","Yes",20
+354,"ODSS",2,"Petrochemical Fuels or Fumes","No",20
+354,"ODSS",1,"Industrial Pollution","Don't Know",20
+354,"ODSS",2,"Prophylactic Meds","Yes",21
+354,"ODSS",2,"Radar/Microwaves","Yes",21
+354,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",20
+354,"ODSS",2,"Sand/Dust","No",21
+354,"OIF/OEF/OND",2,"Vaccinations","No",18
+354,"OIF/OEF/OND",1,"Excessive Vibration","No",20
+354,"ODSS",1,"Bathed in Contaminated Water","Yes",18
+354,"ODSS",0,"Chemical Weapons","Yes",21
+354,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",20
+392,"ODSS",0,"Animal Bodies","No",21
+392,"ODSS",0,"Anthrax Vaccine","No",21
+392,"ODSS",0,"Asbestos","No",22
+392,"OIF/OEF/OND",0,"Biological Warfare Agents","No",21
+392,"ODSS",0,"Animal Bites","No",21
+392,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",21
+392,"ODSS",2,"Burning Trash or Feces","No",19
+392,"ODSS",0,"Chemical Solvents","Don't Know",20
+392,"ODSS",0,"Chlorine Gas","Yes",21
+392,"OIF/OEF/OND",2,"Depleted Uranium","No",22
+392,"OIF/OEF/OND",1,"Fog Oils","Yes",21
+392,"ODSS",2,"Tent Heater Smoke","No",21
+392,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",20
+392,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",21
+392,"OIF/OEF/OND",1,"Insect Bites","No",20
+392,"ODSS",1,"Lasers","Yes",21
+392,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",22
+392,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",23
+392,"ODSS",0,"Nerve Agent Antidotes","Don't Know",21
+392,"OIF/OEF/OND",2,"Loud Noises","No",20
+392,"ODSS",1,"Ingestion of Contaminated Water","Yes",21
+392,"OIF/OEF/OND",2,"Paint","No",22
+392,"ODSS",1,"Pesticides","Yes",20
+392,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",21
+392,"OIF/OEF/OND",1,"Industrial Pollution","No",21
+392,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",20
+392,"OIF/OEF/OND",2,"Radar/Microwaves","No",21
+392,"ODSS",1,"Ionizing Radiation","Yes",21
+392,"OIF/OEF/OND",2,"Sand/Dust","Yes",22
+392,"ODSS",2,"Vaccinations","Yes",20
+392,"ODSS",1,"Excessive Vibration","Don't Know",21
+392,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",20
+392,"OIF/OEF/OND",0,"Chemical Weapons","Yes",20
+392,"ODSS",2,"Weapons Exhaust","No",20
+150,"ODSS",0,"Animal Bodies","Don't Know",13
+150,"ODSS",0,"Anthrax Vaccine","No",11
+150,"OIF/OEF/OND",0,"Asbestos","Don't Know",12
+150,"ODSS",0,"Biological Warfare Agents","Don't Know",12
+150,"OIF/OEF/OND",0,"Animal Bites","Don't Know",11
+150,"ODSS",1,"Human Blood/Bodily Fluids","No",12
+150,"OIF/OEF/OND",2,"Burning Trash or Feces","No",13
+150,"ODSS",0,"Chemical Solvents","Yes",13
+150,"OIF/OEF/OND",0,"Chlorine Gas","No",13
+150,"ODSS",2,"Depleted Uranium","Don't Know",12
+150,"OIF/OEF/OND",1,"Fog Oils","Don't Know",10
+150,"ODSS",2,"Tent Heater Smoke","No",12
+150,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",12
+150,"OIF/OEF/OND",1,"Infectious Disease","Yes",12
+150,"ODSS",1,"Insect Bites","Don't Know",11
+150,"OIF/OEF/OND",1,"Lasers","No",12
+150,"ODSS",2,"Embedded Metal Fragments","Yes",13
+150,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",10
+150,"ODSS",0,"Nerve Agent Antidotes","No",12
+150,"ODSS",2,"Loud Noises","No",14
+150,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",11
+150,"ODSS",2,"Paint","Yes",10
+150,"ODSS",1,"Pesticides","No",12
+150,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",12
+150,"ODSS",1,"Industrial Pollution","No",11
+150,"ODSS",2,"Prophylactic Meds","Don't Know",13
+150,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",12
+150,"OIF/OEF/OND",1,"Ionizing Radiation","No",12
+150,"ODSS",2,"Sand/Dust","Yes",12
+150,"OIF/OEF/OND",2,"Vaccinations","Don't Know",12
+150,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",12
+150,"ODSS",1,"Bathed in Contaminated Water","Don't Know",12
+150,"ODSS",0,"Chemical Weapons","Don't Know",12
+150,"ODSS",2,"Weapons Exhaust","No",11
+239,"ODSS",0,"Animal Bodies","Don't Know",20
+239,"ODSS",0,"Anthrax Vaccine","No",22
+239,"ODSS",0,"Asbestos","Don't Know",19
+239,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",19
+239,"ODSS",0,"Animal Bites","Yes",20
+239,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",18
+239,"ODSS",2,"Burning Trash or Feces","No",20
+239,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",21
+239,"ODSS",0,"Chlorine Gas","Don't Know",21
+239,"ODSS",2,"Depleted Uranium","Don't Know",21
+239,"OIF/OEF/OND",1,"Fog Oils","No",21
+239,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",20
+239,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",21
+239,"ODSS",1,"Infectious Disease","No",20
+239,"ODSS",1,"Insect Bites","No",20
+239,"ODSS",1,"Lasers","No",20
+239,"ODSS",2,"Embedded Metal Fragments","Don't Know",20
+239,"ODSS",0,"Chemical Alarms/MOPP4","Yes",20
+239,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",19
+239,"ODSS",2,"Loud Noises","Don't Know",19
+239,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",20
+239,"ODSS",2,"Paint","Yes",20
+239,"OIF/OEF/OND",1,"Pesticides","Yes",20
+239,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",20
+239,"ODSS",1,"Industrial Pollution","Yes",19
+239,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",20
+239,"ODSS",2,"Radar/Microwaves","Yes",19
+239,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",21
+239,"ODSS",2,"Sand/Dust","Yes",20
+239,"ODSS",2,"Vaccinations","No",20
+239,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",20
+239,"ODSS",1,"Bathed in Contaminated Water","Yes",20
+239,"OIF/OEF/OND",0,"Chemical Weapons","No",20
+239,"ODSS",2,"Weapons Exhaust","Yes",19
+247,"ODSS",0,"Animal Bodies","No",16
+247,"ODSS",0,"Anthrax Vaccine","Don't Know",16
+247,"ODSS",0,"Asbestos","Don't Know",17
+247,"OIF/OEF/OND",0,"Biological Warfare Agents","No",15
+247,"ODSS",0,"Animal Bites","Don't Know",17
+247,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",15
+247,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",15
+247,"ODSS",0,"Chemical Solvents","No",16
+247,"ODSS",0,"Chlorine Gas","No",16
+247,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",17
+247,"OIF/OEF/OND",1,"Fog Oils","No",15
+247,"ODSS",2,"Tent Heater Smoke","Don't Know",17
+247,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",15
+247,"OIF/OEF/OND",1,"Infectious Disease","No",13
+247,"OIF/OEF/OND",1,"Insect Bites","Don't Know",16
+247,"ODSS",1,"Lasers","Don't Know",15
+247,"ODSS",2,"Embedded Metal Fragments","Yes",15
+247,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",16
+247,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",16
+247,"OIF/OEF/OND",2,"Loud Noises","Don't Know",15
+247,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",17
+247,"OIF/OEF/OND",2,"Paint","Don't Know",17
+247,"OIF/OEF/OND",1,"Pesticides","No",16
+247,"ODSS",2,"Petrochemical Fuels or Fumes","No",14
+247,"OIF/OEF/OND",1,"Industrial Pollution","Yes",15
+247,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",15
+247,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",16
+247,"OIF/OEF/OND",1,"Ionizing Radiation","No",15
+247,"OIF/OEF/OND",2,"Sand/Dust","No",16
+247,"ODSS",2,"Vaccinations","Don't Know",17
+247,"ODSS",1,"Excessive Vibration","Yes",15
+247,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",17
+247,"OIF/OEF/OND",0,"Chemical Weapons","No",15
+247,"ODSS",2,"Weapons Exhaust","Don't Know",15
+322,"OIF/OEF/OND",0,"Animal Bodies","Yes",15
+322,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",16
+322,"OIF/OEF/OND",0,"Asbestos","Don't Know",15
+322,"ODSS",0,"Biological Warfare Agents","Don't Know",14
+322,"ODSS",0,"Animal Bites","No",15
+322,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",15
+322,"ODSS",2,"Burning Trash or Feces","Yes",15
+322,"OIF/OEF/OND",0,"Chemical Solvents","No",15
+322,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",14
+322,"ODSS",2,"Depleted Uranium","No",14
+322,"OIF/OEF/OND",1,"Fog Oils","No",15
+322,"ODSS",2,"Tent Heater Smoke","No",15
+322,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",15
+322,"ODSS",1,"Infectious Disease","Don't Know",14
+322,"ODSS",1,"Insect Bites","Don't Know",15
+322,"ODSS",1,"Lasers","No",15
+322,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",15
+322,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",15
+322,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",15
+322,"OIF/OEF/OND",2,"Loud Noises","Yes",14
+322,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",16
+322,"OIF/OEF/OND",2,"Paint","Yes",15
+322,"OIF/OEF/OND",1,"Pesticides","Yes",15
+322,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",16
+322,"OIF/OEF/OND",1,"Industrial Pollution","No",15
+322,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",16
+322,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",14
+322,"ODSS",1,"Ionizing Radiation","No",13
+322,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",14
+322,"OIF/OEF/OND",2,"Vaccinations","Yes",15
+322,"OIF/OEF/OND",1,"Excessive Vibration","No",14
+322,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",16
+322,"ODSS",0,"Chemical Weapons","Don't Know",14
+322,"ODSS",2,"Weapons Exhaust","No",14
+21,"ODSS",0,"Animal Bodies","Don't Know",25
+21,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",26
+21,"OIF/OEF/OND",0,"Asbestos","Don't Know",28
+21,"OIF/OEF/OND",0,"Biological Warfare Agents","No",27
+21,"ODSS",0,"Animal Bites","No",26
+21,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",26
+21,"OIF/OEF/OND",2,"Burning Trash or Feces","No",26
+21,"OIF/OEF/OND",0,"Chemical Solvents","No",25
+21,"ODSS",0,"Chlorine Gas","Don't Know",27
+21,"OIF/OEF/OND",2,"Depleted Uranium","No",28
+21,"OIF/OEF/OND",1,"Fog Oils","Yes",28
+21,"OIF/OEF/OND",2,"Tent Heater Smoke","No",27
+21,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",27
+21,"ODSS",1,"Infectious Disease","No",28
+21,"OIF/OEF/OND",1,"Insect Bites","Yes",27
+21,"OIF/OEF/OND",1,"Lasers","Yes",27
+21,"ODSS",2,"Embedded Metal Fragments","Yes",28
+21,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",27
+21,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",28
+21,"ODSS",2,"Loud Noises","No",28
+21,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",27
+21,"OIF/OEF/OND",2,"Paint","Yes",28
+21,"ODSS",1,"Pesticides","Yes",27
+21,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",29
+21,"OIF/OEF/OND",1,"Industrial Pollution","No",28
+21,"OIF/OEF/OND",2,"Prophylactic Meds","No",27
+21,"ODSS",2,"Radar/Microwaves","Don't Know",27
+21,"ODSS",1,"Ionizing Radiation","Yes",26
+21,"ODSS",2,"Sand/Dust","No",28
+21,"ODSS",2,"Vaccinations","No",27
+21,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",27
+21,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",26
+21,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",27
+21,"ODSS",2,"Weapons Exhaust","No",27
+378,"OIF/OEF/OND",0,"Animal Bodies","Yes",20
+378,"ODSS",0,"Anthrax Vaccine","Yes",18
+378,"ODSS",0,"Asbestos","Yes",20
+378,"OIF/OEF/OND",0,"Biological Warfare Agents","No",19
+378,"ODSS",0,"Animal Bites","Yes",19
+378,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",18
+378,"ODSS",2,"Burning Trash or Feces","Yes",21
+378,"ODSS",0,"Chemical Solvents","Don't Know",19
+378,"OIF/OEF/OND",0,"Chlorine Gas","No",19
+378,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",19
+378,"ODSS",1,"Fog Oils","Yes",21
+378,"OIF/OEF/OND",2,"Tent Heater Smoke","No",18
+378,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",19
+378,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",19
+378,"ODSS",1,"Insect Bites","Don't Know",19
+378,"ODSS",1,"Lasers","No",18
+378,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",19
+378,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",19
+378,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",18
+378,"OIF/OEF/OND",2,"Loud Noises","Yes",19
+378,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",19
+378,"ODSS",2,"Paint","Don't Know",19
+378,"ODSS",1,"Pesticides","No",19
+378,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",20
+378,"OIF/OEF/OND",1,"Industrial Pollution","No",19
+378,"OIF/OEF/OND",2,"Prophylactic Meds","No",19
+378,"OIF/OEF/OND",2,"Radar/Microwaves","No",19
+378,"ODSS",1,"Ionizing Radiation","Yes",18
+378,"ODSS",2,"Sand/Dust","Don't Know",18
+378,"ODSS",2,"Vaccinations","Yes",19
+378,"OIF/OEF/OND",1,"Excessive Vibration","No",19
+378,"ODSS",1,"Bathed in Contaminated Water","Don't Know",18
+378,"ODSS",0,"Chemical Weapons","Don't Know",18
+378,"OIF/OEF/OND",2,"Weapons Exhaust","No",19
+284,"ODSS",0,"Animal Bodies","Don't Know",18
+284,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",18
+284,"OIF/OEF/OND",0,"Asbestos","Don't Know",18
+284,"ODSS",0,"Biological Warfare Agents","No",19
+284,"OIF/OEF/OND",0,"Animal Bites","Yes",18
+284,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",17
+284,"ODSS",2,"Burning Trash or Feces","No",17
+284,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",17
+284,"OIF/OEF/OND",0,"Chlorine Gas","Yes",18
+284,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",19
+284,"OIF/OEF/OND",1,"Fog Oils","No",19
+284,"ODSS",2,"Tent Heater Smoke","Don't Know",17
+284,"ODSS",0,"Agent Orange or Other Herbicides","Yes",17
+284,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",18
+284,"OIF/OEF/OND",1,"Insect Bites","Don't Know",17
+284,"ODSS",1,"Lasers","Don't Know",18
+284,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",19
+284,"ODSS",0,"Chemical Alarms/MOPP4","No",17
+284,"ODSS",0,"Nerve Agent Antidotes","Yes",18
+284,"OIF/OEF/OND",2,"Loud Noises","Don't Know",17
+284,"ODSS",1,"Ingestion of Contaminated Water","No",18
+284,"ODSS",2,"Paint","Yes",19
+284,"OIF/OEF/OND",1,"Pesticides","No",18
+284,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",17
+284,"ODSS",1,"Industrial Pollution","Yes",17
+284,"ODSS",2,"Prophylactic Meds","Don't Know",18
+284,"ODSS",2,"Radar/Microwaves","No",16
+284,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",18
+284,"ODSS",2,"Sand/Dust","No",18
+284,"ODSS",2,"Vaccinations","Yes",18
+284,"ODSS",1,"Excessive Vibration","No",20
+284,"ODSS",1,"Bathed in Contaminated Water","Don't Know",17
+284,"ODSS",0,"Chemical Weapons","Don't Know",17
+284,"ODSS",2,"Weapons Exhaust","No",17
+412,"ODSS",0,"Animal Bodies","No",21
+412,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",22
+412,"ODSS",0,"Asbestos","Don't Know",20
+412,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",22
+412,"ODSS",0,"Animal Bites","Yes",21
+412,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",21
+412,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",21
+412,"OIF/OEF/OND",0,"Chemical Solvents","No",21
+412,"ODSS",0,"Chlorine Gas","No",21
+412,"ODSS",2,"Depleted Uranium","Don't Know",21
+412,"OIF/OEF/OND",1,"Fog Oils","No",22
+412,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",21
+412,"ODSS",0,"Agent Orange or Other Herbicides","Yes",21
+412,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",21
+412,"OIF/OEF/OND",1,"Insect Bites","Don't Know",21
+412,"ODSS",1,"Lasers","Yes",22
+412,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",20
+412,"ODSS",0,"Chemical Alarms/MOPP4","No",20
+412,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",20
+412,"ODSS",2,"Loud Noises","Don't Know",23
+412,"ODSS",1,"Ingestion of Contaminated Water","Yes",22
+412,"OIF/OEF/OND",2,"Paint","No",21
+412,"ODSS",1,"Pesticides","Yes",21
+412,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",21
+412,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",20
+412,"OIF/OEF/OND",2,"Prophylactic Meds","No",22
+412,"ODSS",2,"Radar/Microwaves","Don't Know",21
+412,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",22
+412,"ODSS",2,"Sand/Dust","Yes",21
+412,"OIF/OEF/OND",2,"Vaccinations","No",21
+412,"OIF/OEF/OND",1,"Excessive Vibration","No",20
+412,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",21
+412,"OIF/OEF/OND",0,"Chemical Weapons","No",20
+412,"ODSS",2,"Weapons Exhaust","Don't Know",20
+82,"ODSS",0,"Animal Bodies","Yes",20
+82,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",21
+82,"OIF/OEF/OND",0,"Asbestos","No",21
+82,"ODSS",0,"Biological Warfare Agents","No",20
+82,"OIF/OEF/OND",0,"Animal Bites","Don't Know",18
+82,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",20
+82,"ODSS",2,"Burning Trash or Feces","Yes",19
+82,"ODSS",0,"Chemical Solvents","Don't Know",22
+82,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",20
+82,"OIF/OEF/OND",2,"Depleted Uranium","No",21
+82,"OIF/OEF/OND",1,"Fog Oils","Don't Know",20
+82,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",20
+82,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",20
+82,"OIF/OEF/OND",1,"Infectious Disease","Yes",19
+82,"OIF/OEF/OND",1,"Insect Bites","Don't Know",21
+82,"ODSS",1,"Lasers","Don't Know",20
+82,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",20
+82,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",18
+82,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",21
+82,"OIF/OEF/OND",2,"Loud Noises","Yes",20
+82,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",20
+82,"OIF/OEF/OND",2,"Paint","Don't Know",20
+82,"ODSS",1,"Pesticides","Yes",19
+82,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",21
+82,"OIF/OEF/OND",1,"Industrial Pollution","Yes",20
+82,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",20
+82,"ODSS",2,"Radar/Microwaves","Yes",20
+82,"ODSS",1,"Ionizing Radiation","No",20
+82,"OIF/OEF/OND",2,"Sand/Dust","Yes",20
+82,"ODSS",2,"Vaccinations","No",21
+82,"OIF/OEF/OND",1,"Excessive Vibration","Yes",20
+82,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",21
+82,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",21
+82,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",19
+307,"ODSS",0,"Animal Bodies","Yes",19
+307,"ODSS",0,"Anthrax Vaccine","Don't Know",19
+307,"OIF/OEF/OND",0,"Asbestos","Yes",20
+307,"ODSS",0,"Biological Warfare Agents","Yes",19
+307,"OIF/OEF/OND",0,"Animal Bites","No",19
+307,"ODSS",1,"Human Blood/Bodily Fluids","No",19
+307,"ODSS",2,"Burning Trash or Feces","Yes",18
+307,"OIF/OEF/OND",0,"Chemical Solvents","Yes",18
+307,"ODSS",0,"Chlorine Gas","Yes",19
+307,"ODSS",2,"Depleted Uranium","Yes",18
+307,"OIF/OEF/OND",1,"Fog Oils","Yes",19
+307,"ODSS",2,"Tent Heater Smoke","Yes",19
+307,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",19
+307,"ODSS",1,"Infectious Disease","Don't Know",19
+307,"OIF/OEF/OND",1,"Insect Bites","Yes",20
+307,"ODSS",1,"Lasers","Yes",20
+307,"ODSS",2,"Embedded Metal Fragments","No",19
+307,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",19
+307,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",19
+307,"OIF/OEF/OND",2,"Loud Noises","Yes",19
+307,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",20
+307,"ODSS",2,"Paint","No",19
+307,"OIF/OEF/OND",1,"Pesticides","No",20
+307,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",20
+307,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",19
+307,"ODSS",2,"Prophylactic Meds","Yes",19
+307,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",20
+307,"ODSS",1,"Ionizing Radiation","No",19
+307,"ODSS",2,"Sand/Dust","Don't Know",17
+307,"OIF/OEF/OND",2,"Vaccinations","Don't Know",19
+307,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",20
+307,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",18
+307,"ODSS",0,"Chemical Weapons","Don't Know",19
+307,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",19
+261,"OIF/OEF/OND",0,"Animal Bodies","Yes",23
+261,"ODSS",0,"Anthrax Vaccine","No",21
+261,"OIF/OEF/OND",0,"Asbestos","Don't Know",21
+261,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",22
+261,"ODSS",0,"Animal Bites","No",22
+261,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",21
+261,"OIF/OEF/OND",2,"Burning Trash or Feces","No",22
+261,"OIF/OEF/OND",0,"Chemical Solvents","No",22
+261,"ODSS",0,"Chlorine Gas","Yes",24
+261,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",23
+261,"ODSS",0,"Fog Oils","Yes",21
+261,"ODSS",2,"Tent Heater Smoke","Don't Know",22
+261,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",21
+261,"ODSS",1,"Infectious Disease","Yes",22
+261,"ODSS",1,"Insect Bites","Don't Know",22
+261,"OIF/OEF/OND",1,"Lasers","No",23
+261,"ODSS",2,"Embedded Metal Fragments","Yes",22
+261,"ODSS",0,"Chemical Alarms/MOPP4","No",22
+261,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",21
+261,"OIF/OEF/OND",2,"Loud Noises","Yes",22
+261,"ODSS",1,"Ingestion of Contaminated Water","No",22
+261,"ODSS",2,"Paint","Don't Know",22
+261,"ODSS",1,"Pesticides","Don't Know",21
+261,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",21
+261,"OIF/OEF/OND",1,"Industrial Pollution","No",22
+261,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",22
+261,"ODSS",2,"Radar/Microwaves","Don't Know",23
+261,"OIF/OEF/OND",1,"Ionizing Radiation","No",23
+261,"ODSS",2,"Sand/Dust","Yes",22
+261,"ODSS",2,"Vaccinations","Don't Know",21
+261,"ODSS",1,"Excessive Vibration","Don't Know",22
+261,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",19
+261,"ODSS",0,"Chemical Weapons","Yes",22
+261,"OIF/OEF/OND",2,"Weapons Exhaust","No",22
+126,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",15
+126,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",14
+126,"OIF/OEF/OND",0,"Asbestos","Don't Know",15
+126,"ODSS",0,"Biological Warfare Agents","No",15
+126,"ODSS",0,"Animal Bites","No",14
+126,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",15
+126,"OIF/OEF/OND",2,"Burning Trash or Feces","No",16
+126,"ODSS",0,"Chemical Solvents","No",15
+126,"OIF/OEF/OND",0,"Chlorine Gas","Yes",15
+126,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",14
+126,"ODSS",1,"Fog Oils","Don't Know",15
+126,"ODSS",2,"Tent Heater Smoke","Don't Know",15
+126,"ODSS",0,"Agent Orange or Other Herbicides","Yes",15
+126,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",15
+126,"OIF/OEF/OND",1,"Insect Bites","Yes",15
+126,"ODSS",1,"Lasers","Don't Know",15
+126,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",15
+126,"ODSS",0,"Chemical Alarms/MOPP4","No",16
+126,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",15
+126,"OIF/OEF/OND",2,"Loud Noises","Yes",14
+126,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",16
+126,"OIF/OEF/OND",2,"Paint","Yes",15
+126,"OIF/OEF/OND",1,"Pesticides","Yes",16
+126,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",14
+126,"OIF/OEF/OND",1,"Industrial Pollution","No",16
+126,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",15
+126,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",16
+126,"ODSS",1,"Ionizing Radiation","Yes",14
+126,"OIF/OEF/OND",2,"Sand/Dust","No",16
+126,"OIF/OEF/OND",2,"Vaccinations","No",15
+126,"ODSS",1,"Excessive Vibration","Don't Know",15
+126,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",15
+126,"ODSS",0,"Chemical Weapons","No",14
+126,"ODSS",2,"Weapons Exhaust","No",16
+413,"ODSS",0,"Animal Bodies","Yes",20
+413,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",20
+413,"OIF/OEF/OND",0,"Asbestos","Yes",21
+413,"ODSS",0,"Biological Warfare Agents","Don't Know",19
+413,"OIF/OEF/OND",0,"Animal Bites","Yes",20
+413,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",20
+413,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",21
+413,"ODSS",0,"Chemical Solvents","No",21
+413,"OIF/OEF/OND",0,"Chlorine Gas","Yes",21
+413,"ODSS",2,"Depleted Uranium","Don't Know",20
+413,"OIF/OEF/OND",1,"Fog Oils","No",20
+413,"OIF/OEF/OND",2,"Tent Heater Smoke","No",20
+413,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",20
+413,"OIF/OEF/OND",1,"Infectious Disease","No",20
+413,"ODSS",1,"Insect Bites","No",21
+413,"OIF/OEF/OND",1,"Lasers","Yes",20
+413,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",20
+413,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",19
+413,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",20
+413,"ODSS",2,"Loud Noises","Yes",20
+413,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",20
+413,"OIF/OEF/OND",2,"Paint","Don't Know",19
+413,"ODSS",1,"Pesticides","Yes",19
+413,"ODSS",2,"Petrochemical Fuels or Fumes","No",19
+413,"ODSS",1,"Industrial Pollution","No",21
+413,"ODSS",2,"Prophylactic Meds","Don't Know",19
+413,"ODSS",2,"Radar/Microwaves","No",20
+413,"ODSS",1,"Ionizing Radiation","No",19
+413,"ODSS",2,"Sand/Dust","Yes",20
+413,"OIF/OEF/OND",2,"Vaccinations","No",20
+413,"ODSS",1,"Excessive Vibration","Yes",20
+413,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",20
+413,"ODSS",0,"Chemical Weapons","Don't Know",20
+413,"ODSS",2,"Weapons Exhaust","No",20
+282,"OIF/OEF/OND",0,"Animal Bodies","No",22
+282,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",22
+282,"ODSS",0,"Asbestos","Yes",21
+282,"ODSS",0,"Biological Warfare Agents","No",21
+282,"ODSS",0,"Animal Bites","No",23
+282,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",23
+282,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",22
+282,"OIF/OEF/OND",0,"Chemical Solvents","Yes",23
+282,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",22
+282,"OIF/OEF/OND",2,"Depleted Uranium","No",22
+282,"OIF/OEF/OND",1,"Fog Oils","Don't Know",24
+282,"OIF/OEF/OND",2,"Tent Heater Smoke","No",21
+282,"ODSS",0,"Agent Orange or Other Herbicides","Yes",22
+282,"OIF/OEF/OND",1,"Infectious Disease","Yes",21
+282,"ODSS",1,"Insect Bites","No",22
+282,"ODSS",1,"Lasers","Don't Know",22
+282,"ODSS",2,"Embedded Metal Fragments","Yes",22
+282,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",23
+282,"ODSS",0,"Nerve Agent Antidotes","Don't Know",22
+282,"ODSS",2,"Loud Noises","Don't Know",22
+282,"ODSS",1,"Ingestion of Contaminated Water","Yes",22
+282,"OIF/OEF/OND",2,"Paint","No",22
+282,"OIF/OEF/OND",1,"Pesticides","Yes",22
+282,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",21
+282,"ODSS",1,"Industrial Pollution","Yes",22
+282,"ODSS",2,"Prophylactic Meds","Don't Know",22
+282,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",22
+282,"ODSS",1,"Ionizing Radiation","Don't Know",22
+282,"ODSS",2,"Sand/Dust","Yes",22
+282,"ODSS",2,"Vaccinations","Don't Know",22
+282,"ODSS",1,"Excessive Vibration","Yes",21
+282,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",22
+282,"ODSS",0,"Chemical Weapons","No",23
+282,"ODSS",2,"Weapons Exhaust","Yes",20
+320,"ODSS",0,"Animal Bodies","Yes",23
+320,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",24
+320,"OIF/OEF/OND",0,"Asbestos","No",23
+320,"ODSS",0,"Biological Warfare Agents","No",24
+320,"OIF/OEF/OND",0,"Animal Bites","No",24
+320,"ODSS",1,"Human Blood/Bodily Fluids","Yes",24
+320,"ODSS",2,"Burning Trash or Feces","No",23
+320,"OIF/OEF/OND",0,"Chemical Solvents","Yes",23
+320,"ODSS",0,"Chlorine Gas","Don't Know",24
+320,"OIF/OEF/OND",2,"Depleted Uranium","Yes",24
+320,"OIF/OEF/OND",1,"Fog Oils","Yes",24
+320,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",25
+320,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",25
+320,"ODSS",1,"Infectious Disease","No",24
+320,"OIF/OEF/OND",1,"Insect Bites","Yes",24
+320,"ODSS",1,"Lasers","No",24
+320,"ODSS",2,"Embedded Metal Fragments","Yes",24
+320,"ODSS",0,"Chemical Alarms/MOPP4","Yes",22
+320,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",23
+320,"ODSS",2,"Loud Noises","Don't Know",24
+320,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",25
+320,"ODSS",2,"Paint","Don't Know",25
+320,"OIF/OEF/OND",1,"Pesticides","Don't Know",23
+320,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",23
+320,"ODSS",1,"Industrial Pollution","No",24
+320,"ODSS",2,"Prophylactic Meds","Don't Know",24
+320,"ODSS",2,"Radar/Microwaves","Yes",24
+320,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",24
+320,"ODSS",2,"Sand/Dust","Don't Know",24
+320,"OIF/OEF/OND",2,"Vaccinations","Yes",23
+320,"ODSS",1,"Excessive Vibration","No",24
+320,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",24
+320,"OIF/OEF/OND",0,"Chemical Weapons","No",23
+320,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",24
+132,"ODSS",0,"Animal Bodies","Don't Know",26
+132,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",25
+132,"OIF/OEF/OND",0,"Asbestos","No",26
+132,"OIF/OEF/OND",0,"Biological Warfare Agents","No",26
+132,"ODSS",0,"Animal Bites","Don't Know",26
+132,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",26
+132,"ODSS",2,"Burning Trash or Feces","Don't Know",26
+132,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",26
+132,"ODSS",0,"Chlorine Gas","No",28
+132,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",25
+132,"OIF/OEF/OND",1,"Fog Oils","Don't Know",27
+132,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",27
+132,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",26
+132,"ODSS",1,"Infectious Disease","Yes",27
+132,"ODSS",1,"Insect Bites","No",26
+132,"ODSS",1,"Lasers","No",26
+132,"ODSS",2,"Embedded Metal Fragments","Don't Know",26
+132,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",26
+132,"ODSS",0,"Nerve Agent Antidotes","No",25
+132,"OIF/OEF/OND",2,"Loud Noises","Yes",27
+132,"ODSS",1,"Ingestion of Contaminated Water","No",26
+132,"OIF/OEF/OND",2,"Paint","Don't Know",26
+132,"OIF/OEF/OND",1,"Pesticides","Yes",26
+132,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",25
+132,"ODSS",1,"Industrial Pollution","No",25
+132,"OIF/OEF/OND",2,"Prophylactic Meds","No",26
+132,"ODSS",2,"Radar/Microwaves","Yes",26
+132,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",26
+132,"ODSS",2,"Sand/Dust","No",25
+132,"OIF/OEF/OND",2,"Vaccinations","Yes",25
+132,"ODSS",1,"Excessive Vibration","No",26
+132,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",25
+132,"ODSS",0,"Chemical Weapons","Yes",25
+132,"ODSS",2,"Weapons Exhaust","Don't Know",27
+144,"ODSS",0,"Animal Bodies","No",16
+144,"ODSS",0,"Anthrax Vaccine","No",17
+144,"ODSS",0,"Asbestos","No",15
+144,"ODSS",0,"Biological Warfare Agents","Don't Know",17
+144,"ODSS",0,"Animal Bites","Yes",16
+144,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",16
+144,"ODSS",2,"Burning Trash or Feces","Don't Know",17
+144,"ODSS",0,"Chemical Solvents","Don't Know",17
+144,"ODSS",0,"Chlorine Gas","Yes",16
+144,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",15
+144,"ODSS",1,"Fog Oils","Don't Know",16
+144,"ODSS",2,"Tent Heater Smoke","No",17
+144,"ODSS",0,"Agent Orange or Other Herbicides","No",16
+144,"ODSS",1,"Infectious Disease","No",16
+144,"OIF/OEF/OND",1,"Insect Bites","No",15
+144,"OIF/OEF/OND",1,"Lasers","Don't Know",16
+144,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",15
+144,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",16
+144,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",16
+144,"OIF/OEF/OND",2,"Loud Noises","Don't Know",15
+144,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",16
+144,"ODSS",2,"Paint","No",15
+144,"OIF/OEF/OND",1,"Pesticides","Yes",16
+144,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",15
+144,"ODSS",1,"Industrial Pollution","No",17
+144,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",16
+144,"OIF/OEF/OND",2,"Radar/Microwaves","No",16
+144,"ODSS",1,"Ionizing Radiation","Yes",15
+144,"ODSS",2,"Sand/Dust","No",16
+144,"OIF/OEF/OND",2,"Vaccinations","Don't Know",16
+144,"ODSS",1,"Excessive Vibration","Don't Know",17
+144,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",16
+144,"OIF/OEF/OND",0,"Chemical Weapons","Yes",16
+144,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",16
+271,"OIF/OEF/OND",0,"Animal Bodies","No",19
+271,"ODSS",0,"Anthrax Vaccine","Don't Know",19
+271,"OIF/OEF/OND",0,"Asbestos","Don't Know",19
+271,"ODSS",0,"Biological Warfare Agents","No",19
+271,"OIF/OEF/OND",0,"Animal Bites","No",18
+271,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",19
+271,"ODSS",2,"Burning Trash or Feces","Don't Know",19
+271,"OIF/OEF/OND",0,"Chemical Solvents","No",19
+271,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",18
+271,"ODSS",2,"Depleted Uranium","No",20
+271,"ODSS",1,"Fog Oils","Yes",20
+271,"ODSS",2,"Tent Heater Smoke","Don't Know",20
+271,"ODSS",0,"Agent Orange or Other Herbicides","No",20
+271,"ODSS",1,"Infectious Disease","No",18
+271,"ODSS",1,"Insect Bites","No",19
+271,"OIF/OEF/OND",1,"Lasers","Don't Know",18
+271,"ODSS",2,"Embedded Metal Fragments","Don't Know",20
+271,"ODSS",0,"Chemical Alarms/MOPP4","Yes",19
+271,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",19
+271,"OIF/OEF/OND",2,"Loud Noises","No",19
+271,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",19
+271,"OIF/OEF/OND",2,"Paint","Don't Know",18
+271,"ODSS",1,"Pesticides","Don't Know",19
+271,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",17
+271,"ODSS",1,"Industrial Pollution","No",19
+271,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",21
+271,"ODSS",2,"Radar/Microwaves","Don't Know",20
+271,"ODSS",1,"Ionizing Radiation","Yes",20
+271,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",19
+271,"OIF/OEF/OND",2,"Vaccinations","Don't Know",19
+271,"ODSS",1,"Excessive Vibration","Yes",19
+271,"ODSS",1,"Bathed in Contaminated Water","No",19
+271,"ODSS",0,"Chemical Weapons","Don't Know",18
+271,"ODSS",2,"Weapons Exhaust","No",19
+175,"OIF/OEF/OND",0,"Animal Bodies","No",24
+175,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",25
+175,"OIF/OEF/OND",0,"Asbestos","Don't Know",24
+175,"OIF/OEF/OND",0,"Biological Warfare Agents","No",25
+175,"ODSS",0,"Animal Bites","Yes",23
+175,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",24
+175,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",24
+175,"ODSS",0,"Chemical Solvents","Yes",25
+175,"ODSS",0,"Chlorine Gas","No",24
+175,"OIF/OEF/OND",2,"Depleted Uranium","No",24
+175,"OIF/OEF/OND",1,"Fog Oils","No",24
+175,"ODSS",2,"Tent Heater Smoke","Yes",24
+175,"ODSS",0,"Agent Orange or Other Herbicides","No",23
+175,"ODSS",1,"Infectious Disease","No",23
+175,"ODSS",1,"Insect Bites","Don't Know",24
+175,"ODSS",1,"Lasers","Yes",24
+175,"ODSS",2,"Embedded Metal Fragments","No",25
+175,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",25
+175,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",26
+175,"ODSS",2,"Loud Noises","Don't Know",25
+175,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",24
+175,"ODSS",2,"Paint","Yes",24
+175,"OIF/OEF/OND",1,"Pesticides","No",24
+175,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",23
+175,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",25
+175,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",24
+175,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",24
+175,"ODSS",1,"Ionizing Radiation","Don't Know",25
+175,"ODSS",2,"Sand/Dust","Don't Know",24
+175,"ODSS",2,"Vaccinations","Don't Know",24
+175,"ODSS",1,"Excessive Vibration","No",24
+175,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",22
+175,"ODSS",0,"Chemical Weapons","Yes",22
+175,"ODSS",2,"Weapons Exhaust","No",26
+246,"ODSS",0,"Animal Bodies","Don't Know",19
+246,"ODSS",0,"Anthrax Vaccine","Don't Know",20
+246,"OIF/OEF/OND",0,"Asbestos","Yes",20
+246,"ODSS",0,"Biological Warfare Agents","No",21
+246,"OIF/OEF/OND",0,"Animal Bites","Don't Know",20
+246,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",20
+246,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",19
+246,"ODSS",0,"Chemical Solvents","Yes",21
+246,"OIF/OEF/OND",0,"Chlorine Gas","No",20
+246,"OIF/OEF/OND",2,"Depleted Uranium","Yes",19
+246,"ODSS",1,"Fog Oils","Don't Know",20
+246,"ODSS",2,"Tent Heater Smoke","Yes",19
+246,"ODSS",0,"Agent Orange or Other Herbicides","Yes",20
+246,"OIF/OEF/OND",1,"Infectious Disease","No",21
+246,"ODSS",1,"Insect Bites","Yes",20
+246,"ODSS",1,"Lasers","No",19
+246,"ODSS",2,"Embedded Metal Fragments","Yes",20
+246,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",20
+246,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",22
+246,"OIF/OEF/OND",2,"Loud Noises","No",20
+246,"ODSS",1,"Ingestion of Contaminated Water","No",21
+246,"OIF/OEF/OND",2,"Paint","Don't Know",20
+246,"OIF/OEF/OND",1,"Pesticides","Don't Know",20
+246,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",19
+246,"OIF/OEF/OND",1,"Industrial Pollution","Yes",19
+246,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",20
+246,"ODSS",2,"Radar/Microwaves","No",20
+246,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",20
+246,"ODSS",2,"Sand/Dust","Don't Know",20
+246,"OIF/OEF/OND",2,"Vaccinations","Yes",19
+246,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",22
+246,"ODSS",1,"Bathed in Contaminated Water","No",20
+246,"OIF/OEF/OND",0,"Chemical Weapons","No",20
+246,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",20
+297,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",22
+297,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",21
+297,"OIF/OEF/OND",0,"Asbestos","No",19
+297,"OIF/OEF/OND",0,"Biological Warfare Agents","No",19
+297,"OIF/OEF/OND",0,"Animal Bites","No",20
+297,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",20
+297,"ODSS",2,"Burning Trash or Feces","No",20
+297,"OIF/OEF/OND",0,"Chemical Solvents","Yes",20
+297,"ODSS",0,"Chlorine Gas","No",20
+297,"ODSS",2,"Depleted Uranium","Don't Know",20
+297,"OIF/OEF/OND",1,"Fog Oils","Yes",19
+297,"OIF/OEF/OND",2,"Tent Heater Smoke","No",19
+297,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",19
+297,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",20
+297,"OIF/OEF/OND",1,"Insect Bites","No",20
+297,"ODSS",1,"Lasers","No",21
+297,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",21
+297,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",19
+297,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",21
+297,"ODSS",2,"Loud Noises","Don't Know",20
+297,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",20
+297,"ODSS",2,"Paint","Yes",20
+297,"OIF/OEF/OND",1,"Pesticides","Don't Know",19
+297,"ODSS",2,"Petrochemical Fuels or Fumes","No",19
+297,"ODSS",1,"Industrial Pollution","No",19
+297,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",21
+297,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",21
+297,"OIF/OEF/OND",1,"Ionizing Radiation","No",19
+297,"OIF/OEF/OND",2,"Sand/Dust","Yes",20
+297,"OIF/OEF/OND",2,"Vaccinations","No",21
+297,"ODSS",1,"Excessive Vibration","No",20
+297,"ODSS",1,"Bathed in Contaminated Water","Yes",21
+297,"OIF/OEF/OND",0,"Chemical Weapons","No",20
+297,"OIF/OEF/OND",2,"Weapons Exhaust","No",20
+297,"ODSS",0,"Animal Bodies","Don't Know",22
+297,"OIF/OEF/OND",0,"Anthrax Vaccine","No",21
+297,"OIF/OEF/OND",0,"Asbestos","Don't Know",20
+297,"ODSS",0,"Biological Warfare Agents","Don't Know",21
+297,"OIF/OEF/OND",0,"Animal Bites","Yes",19
+297,"ODSS",1,"Human Blood/Bodily Fluids","No",20
+297,"ODSS",2,"Burning Trash or Feces","Yes",20
+297,"ODSS",0,"Chemical Solvents","Yes",21
+297,"ODSS",0,"Chlorine Gas","No",18
+297,"OIF/OEF/OND",2,"Depleted Uranium","Yes",20
+297,"ODSS",1,"Fog Oils","Don't Know",20
+297,"ODSS",2,"Tent Heater Smoke","Don't Know",20
+297,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",19
+297,"ODSS",1,"Infectious Disease","Don't Know",20
+297,"OIF/OEF/OND",1,"Insect Bites","Don't Know",19
+297,"OIF/OEF/OND",1,"Lasers","No",20
+297,"ODSS",2,"Embedded Metal Fragments","No",20
+297,"ODSS",0,"Chemical Alarms/MOPP4","Yes",20
+297,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",20
+297,"ODSS",2,"Loud Noises","Yes",20
+297,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",18
+297,"ODSS",2,"Paint","Yes",20
+297,"ODSS",1,"Pesticides","Yes",19
+297,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",19
+297,"ODSS",1,"Industrial Pollution","Yes",19
+297,"ODSS",2,"Prophylactic Meds","No",21
+297,"ODSS",2,"Radar/Microwaves","Don't Know",20
+297,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",20
+297,"ODSS",2,"Sand/Dust","Don't Know",20
+297,"ODSS",2,"Vaccinations","Don't Know",20
+297,"OIF/OEF/OND",1,"Excessive Vibration","No",21
+297,"ODSS",1,"Bathed in Contaminated Water","No",20
+297,"ODSS",0,"Chemical Weapons","No",20
+297,"ODSS",2,"Weapons Exhaust","Yes",19
+172,"OIF/OEF/OND",0,"Animal Bodies","No",27
+172,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",27
+172,"OIF/OEF/OND",0,"Asbestos","Don't Know",28
+172,"OIF/OEF/OND",0,"Biological Warfare Agents","No",26
+172,"OIF/OEF/OND",0,"Animal Bites","No",26
+172,"ODSS",1,"Human Blood/Bodily Fluids","No",28
+172,"ODSS",2,"Burning Trash or Feces","No",27
+172,"ODSS",0,"Chemical Solvents","Yes",27
+172,"ODSS",0,"Chlorine Gas","No",27
+172,"ODSS",2,"Depleted Uranium","Yes",27
+172,"ODSS",1,"Fog Oils","Don't Know",26
+172,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",27
+172,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",28
+172,"ODSS",1,"Infectious Disease","Don't Know",29
+172,"ODSS",1,"Insect Bites","No",26
+172,"ODSS",1,"Lasers","Yes",28
+172,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",26
+172,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",27
+172,"ODSS",0,"Nerve Agent Antidotes","Yes",27
+172,"OIF/OEF/OND",2,"Loud Noises","Don't Know",27
+172,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",26
+172,"OIF/OEF/OND",2,"Paint","Don't Know",27
+172,"OIF/OEF/OND",1,"Pesticides","Don't Know",29
+172,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",26
+172,"ODSS",1,"Industrial Pollution","Don't Know",28
+172,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",27
+172,"ODSS",2,"Radar/Microwaves","Yes",28
+172,"ODSS",1,"Ionizing Radiation","No",26
+172,"ODSS",2,"Sand/Dust","Don't Know",27
+172,"ODSS",2,"Vaccinations","Yes",27
+172,"ODSS",1,"Excessive Vibration","Yes",27
+172,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",28
+172,"ODSS",0,"Chemical Weapons","Yes",26
+172,"ODSS",2,"Weapons Exhaust","No",28
+19,"OIF/OEF/OND",0,"Animal Bodies","Yes",15
+19,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",17
+19,"ODSS",0,"Asbestos","Don't Know",16
+19,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",17
+19,"OIF/OEF/OND",0,"Animal Bites","No",15
+19,"ODSS",1,"Human Blood/Bodily Fluids","No",16
+19,"ODSS",2,"Burning Trash or Feces","Yes",16
+19,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",17
+19,"ODSS",0,"Chlorine Gas","Don't Know",16
+19,"OIF/OEF/OND",2,"Depleted Uranium","Yes",17
+19,"OIF/OEF/OND",1,"Fog Oils","Don't Know",17
+19,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",17
+19,"ODSS",0,"Agent Orange or Other Herbicides","No",15
+19,"ODSS",1,"Infectious Disease","No",17
+19,"ODSS",1,"Insect Bites","Yes",16
+19,"ODSS",1,"Lasers","Yes",16
+19,"ODSS",2,"Embedded Metal Fragments","Yes",16
+19,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",15
+19,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",16
+19,"ODSS",2,"Loud Noises","Yes",17
+19,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",16
+19,"OIF/OEF/OND",2,"Paint","No",16
+19,"OIF/OEF/OND",1,"Pesticides","Don't Know",16
+19,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",16
+19,"ODSS",1,"Industrial Pollution","Don't Know",16
+19,"ODSS",2,"Prophylactic Meds","No",16
+19,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",15
+19,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",16
+19,"OIF/OEF/OND",2,"Sand/Dust","No",16
+19,"OIF/OEF/OND",2,"Vaccinations","Don't Know",15
+19,"OIF/OEF/OND",1,"Excessive Vibration","Yes",15
+19,"ODSS",1,"Bathed in Contaminated Water","Don't Know",15
+19,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",15
+19,"ODSS",2,"Weapons Exhaust","No",17
+391,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",19
+391,"ODSS",0,"Anthrax Vaccine","No",18
+391,"ODSS",0,"Asbestos","Yes",18
+391,"ODSS",0,"Biological Warfare Agents","No",19
+391,"ODSS",0,"Animal Bites","No",18
+391,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",19
+391,"OIF/OEF/OND",2,"Burning Trash or Feces","No",19
+391,"OIF/OEF/OND",0,"Chemical Solvents","Yes",19
+391,"ODSS",0,"Chlorine Gas","Don't Know",20
+391,"ODSS",2,"Depleted Uranium","Don't Know",19
+391,"OIF/OEF/OND",1,"Fog Oils","Yes",19
+391,"OIF/OEF/OND",2,"Tent Heater Smoke","No",20
+391,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",19
+391,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",20
+391,"ODSS",1,"Insect Bites","No",18
+391,"ODSS",1,"Lasers","Yes",19
+391,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",19
+391,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",19
+391,"ODSS",0,"Nerve Agent Antidotes","Yes",19
+391,"OIF/OEF/OND",2,"Loud Noises","Don't Know",19
+391,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",20
+391,"OIF/OEF/OND",2,"Paint","Don't Know",19
+391,"ODSS",1,"Pesticides","Yes",19
+391,"ODSS",2,"Petrochemical Fuels or Fumes","No",19
+391,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",18
+391,"OIF/OEF/OND",2,"Prophylactic Meds","No",18
+391,"ODSS",2,"Radar/Microwaves","Yes",19
+391,"ODSS",1,"Ionizing Radiation","Yes",19
+391,"ODSS",2,"Sand/Dust","Don't Know",19
+391,"ODSS",2,"Vaccinations","Don't Know",18
+391,"ODSS",1,"Excessive Vibration","Yes",19
+391,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",19
+391,"ODSS",0,"Chemical Weapons","Yes",20
+391,"ODSS",2,"Weapons Exhaust","No",19
+385,"OIF/OEF/OND",0,"Animal Bodies","Yes",26
+385,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",26
+385,"OIF/OEF/OND",0,"Asbestos","Yes",25
+385,"OIF/OEF/OND",0,"Biological Warfare Agents","No",27
+385,"ODSS",0,"Animal Bites","No",26
+385,"ODSS",1,"Human Blood/Bodily Fluids","Yes",26
+385,"OIF/OEF/OND",2,"Burning Trash or Feces","No",26
+385,"ODSS",0,"Chemical Solvents","Don't Know",26
+385,"ODSS",0,"Chlorine Gas","Yes",26
+385,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",26
+385,"OIF/OEF/OND",1,"Fog Oils","No",26
+385,"ODSS",2,"Tent Heater Smoke","No",26
+385,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",28
+385,"ODSS",1,"Infectious Disease","No",26
+385,"OIF/OEF/OND",1,"Insect Bites","Don't Know",26
+385,"ODSS",1,"Lasers","Yes",27
+385,"ODSS",2,"Embedded Metal Fragments","No",25
+385,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",26
+385,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",26
+385,"ODSS",2,"Loud Noises","No",25
+385,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",25
+385,"OIF/OEF/OND",2,"Paint","No",25
+385,"OIF/OEF/OND",1,"Pesticides","Yes",25
+385,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",26
+385,"OIF/OEF/OND",1,"Industrial Pollution","No",25
+385,"ODSS",2,"Prophylactic Meds","Don't Know",25
+385,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",27
+385,"ODSS",1,"Ionizing Radiation","Don't Know",25
+385,"OIF/OEF/OND",2,"Sand/Dust","Yes",26
+385,"ODSS",2,"Vaccinations","Don't Know",28
+385,"ODSS",1,"Excessive Vibration","Yes",25
+385,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",27
+385,"OIF/OEF/OND",0,"Chemical Weapons","Yes",26
+385,"ODSS",2,"Weapons Exhaust","Don't Know",25
+345,"ODSS",0,"Animal Bodies","Don't Know",27
+345,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",26
+345,"OIF/OEF/OND",0,"Asbestos","No",28
+345,"OIF/OEF/OND",0,"Biological Warfare Agents","No",28
+345,"ODSS",0,"Animal Bites","Yes",26
+345,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",27
+345,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",27
+345,"OIF/OEF/OND",0,"Chemical Solvents","No",26
+345,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",28
+345,"OIF/OEF/OND",2,"Depleted Uranium","No",27
+345,"OIF/OEF/OND",1,"Fog Oils","Yes",27
+345,"ODSS",2,"Tent Heater Smoke","Yes",27
+345,"ODSS",0,"Agent Orange or Other Herbicides","Yes",26
+345,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",27
+345,"OIF/OEF/OND",1,"Insect Bites","No",27
+345,"ODSS",1,"Lasers","No",26
+345,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",26
+345,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",27
+345,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",26
+345,"ODSS",2,"Loud Noises","No",28
+345,"ODSS",1,"Ingestion of Contaminated Water","No",26
+345,"OIF/OEF/OND",2,"Paint","Yes",26
+345,"ODSS",1,"Pesticides","Don't Know",27
+345,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",27
+345,"ODSS",1,"Industrial Pollution","Yes",28
+345,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",27
+345,"ODSS",2,"Radar/Microwaves","Don't Know",27
+345,"ODSS",1,"Ionizing Radiation","No",27
+345,"OIF/OEF/OND",2,"Sand/Dust","No",28
+345,"ODSS",2,"Vaccinations","Don't Know",27
+345,"OIF/OEF/OND",1,"Excessive Vibration","Yes",28
+345,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",26
+345,"ODSS",0,"Chemical Weapons","No",26
+345,"OIF/OEF/OND",2,"Weapons Exhaust","No",27
+50,"ODSS",0,"Animal Bodies","No",19
+50,"OIF/OEF/OND",0,"Anthrax Vaccine","No",19
+50,"ODSS",0,"Asbestos","No",19
+50,"ODSS",0,"Biological Warfare Agents","No",17
+50,"ODSS",0,"Animal Bites","No",19
+50,"ODSS",1,"Human Blood/Bodily Fluids","Yes",21
+50,"OIF/OEF/OND",2,"Burning Trash or Feces","No",20
+50,"ODSS",0,"Chemical Solvents","Yes",20
+50,"OIF/OEF/OND",0,"Chlorine Gas","Yes",19
+50,"OIF/OEF/OND",2,"Depleted Uranium","Yes",18
+50,"ODSS",1,"Fog Oils","Yes",20
+50,"ODSS",2,"Tent Heater Smoke","No",19
+50,"ODSS",0,"Agent Orange or Other Herbicides","Yes",20
+50,"ODSS",1,"Infectious Disease","Yes",20
+50,"OIF/OEF/OND",1,"Insect Bites","No",20
+50,"OIF/OEF/OND",1,"Lasers","Yes",19
+50,"ODSS",2,"Embedded Metal Fragments","Yes",18
+50,"ODSS",0,"Chemical Alarms/MOPP4","Yes",19
+50,"ODSS",0,"Nerve Agent Antidotes","Yes",19
+50,"ODSS",2,"Loud Noises","No",19
+50,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",19
+50,"ODSS",2,"Paint","No",19
+50,"OIF/OEF/OND",1,"Pesticides","Yes",19
+50,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",20
+50,"OIF/OEF/OND",1,"Industrial Pollution","No",20
+50,"ODSS",2,"Prophylactic Meds","No",18
+50,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",21
+50,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",20
+50,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",18
+50,"OIF/OEF/OND",2,"Vaccinations","Yes",19
+50,"ODSS",1,"Excessive Vibration","Don't Know",19
+50,"ODSS",1,"Bathed in Contaminated Water","No",18
+50,"ODSS",0,"Chemical Weapons","No",19
+50,"ODSS",2,"Weapons Exhaust","No",19
+28,"ODSS",0,"Animal Bodies","Don't Know",18
+28,"ODSS",0,"Anthrax Vaccine","Don't Know",18
+28,"ODSS",0,"Asbestos","Don't Know",19
+28,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",18
+28,"OIF/OEF/OND",0,"Animal Bites","No",18
+28,"ODSS",1,"Human Blood/Bodily Fluids","No",18
+28,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",19
+28,"OIF/OEF/OND",0,"Chemical Solvents","No",17
+28,"ODSS",0,"Chlorine Gas","Yes",19
+28,"OIF/OEF/OND",2,"Depleted Uranium","Yes",18
+28,"OIF/OEF/OND",1,"Fog Oils","No",18
+28,"ODSS",2,"Tent Heater Smoke","Yes",18
+28,"ODSS",0,"Agent Orange or Other Herbicides","No",17
+28,"OIF/OEF/OND",1,"Infectious Disease","Yes",19
+28,"OIF/OEF/OND",1,"Insect Bites","Yes",17
+28,"ODSS",1,"Lasers","Yes",18
+28,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",18
+28,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",18
+28,"ODSS",0,"Nerve Agent Antidotes","Don't Know",18
+28,"OIF/OEF/OND",2,"Loud Noises","Don't Know",18
+28,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",17
+28,"OIF/OEF/OND",2,"Paint","No",17
+28,"OIF/OEF/OND",1,"Pesticides","Yes",17
+28,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",17
+28,"OIF/OEF/OND",1,"Industrial Pollution","Yes",17
+28,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",19
+28,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",18
+28,"ODSS",1,"Ionizing Radiation","Don't Know",18
+28,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",18
+28,"OIF/OEF/OND",2,"Vaccinations","No",18
+28,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",18
+28,"ODSS",1,"Bathed in Contaminated Water","Don't Know",18
+28,"ODSS",0,"Chemical Weapons","Yes",17
+28,"ODSS",2,"Weapons Exhaust","No",18
+181,"ODSS",0,"Animal Bodies","No",18
+181,"ODSS",0,"Anthrax Vaccine","Yes",19
+181,"OIF/OEF/OND",0,"Asbestos","No",20
+181,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",18
+181,"ODSS",0,"Animal Bites","Yes",18
+181,"ODSS",1,"Human Blood/Bodily Fluids","No",19
+181,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",19
+181,"ODSS",0,"Chemical Solvents","No",18
+181,"ODSS",0,"Chlorine Gas","No",20
+181,"ODSS",2,"Depleted Uranium","No",20
+181,"OIF/OEF/OND",1,"Fog Oils","No",20
+181,"ODSS",2,"Tent Heater Smoke","Yes",19
+181,"ODSS",0,"Agent Orange or Other Herbicides","No",19
+181,"ODSS",1,"Infectious Disease","Yes",19
+181,"ODSS",1,"Insect Bites","Don't Know",19
+181,"OIF/OEF/OND",1,"Lasers","No",19
+181,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",19
+181,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",19
+181,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",19
+181,"ODSS",2,"Loud Noises","No",19
+181,"ODSS",1,"Ingestion of Contaminated Water","No",19
+181,"ODSS",2,"Paint","Don't Know",19
+181,"ODSS",1,"Pesticides","No",19
+181,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",19
+181,"OIF/OEF/OND",1,"Industrial Pollution","Yes",18
+181,"ODSS",2,"Prophylactic Meds","Don't Know",19
+181,"OIF/OEF/OND",2,"Radar/Microwaves","No",19
+181,"OIF/OEF/OND",1,"Ionizing Radiation","No",19
+181,"ODSS",2,"Sand/Dust","Yes",19
+181,"OIF/OEF/OND",2,"Vaccinations","Don't Know",18
+181,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",19
+181,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",19
+181,"ODSS",0,"Chemical Weapons","Don't Know",20
+181,"OIF/OEF/OND",2,"Weapons Exhaust","No",19
+181,"ODSS",0,"Animal Bodies","Yes",18
+181,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",19
+181,"OIF/OEF/OND",0,"Asbestos","Yes",19
+181,"OIF/OEF/OND",0,"Biological Warfare Agents","No",19
+181,"ODSS",0,"Animal Bites","No",20
+181,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",17
+181,"ODSS",2,"Burning Trash or Feces","No",18
+181,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",19
+181,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",19
+181,"ODSS",2,"Depleted Uranium","Don't Know",19
+181,"OIF/OEF/OND",1,"Fog Oils","No",19
+181,"ODSS",2,"Tent Heater Smoke","Don't Know",20
+181,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",18
+181,"ODSS",1,"Infectious Disease","Yes",19
+181,"ODSS",1,"Insect Bites","Yes",19
+181,"OIF/OEF/OND",1,"Lasers","No",18
+181,"ODSS",2,"Embedded Metal Fragments","Yes",20
+181,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",20
+181,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",18
+181,"OIF/OEF/OND",2,"Loud Noises","No",20
+181,"ODSS",1,"Ingestion of Contaminated Water","Yes",19
+181,"OIF/OEF/OND",2,"Paint","No",21
+181,"ODSS",1,"Pesticides","Don't Know",20
+181,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",19
+181,"OIF/OEF/OND",1,"Industrial Pollution","Yes",18
+181,"ODSS",2,"Prophylactic Meds","Don't Know",19
+181,"ODSS",2,"Radar/Microwaves","Yes",19
+181,"ODSS",1,"Ionizing Radiation","Yes",19
+181,"ODSS",2,"Sand/Dust","Don't Know",19
+181,"OIF/OEF/OND",2,"Vaccinations","Don't Know",19
+181,"ODSS",1,"Excessive Vibration","No",19
+181,"ODSS",1,"Bathed in Contaminated Water","No",21
+181,"ODSS",0,"Chemical Weapons","Yes",19
+181,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",18
+287,"ODSS",0,"Animal Bodies","Yes",26
+287,"ODSS",0,"Anthrax Vaccine","No",25
+287,"OIF/OEF/OND",0,"Asbestos","No",23
+287,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",26
+287,"OIF/OEF/OND",0,"Animal Bites","Don't Know",26
+287,"ODSS",1,"Human Blood/Bodily Fluids","Yes",24
+287,"ODSS",2,"Burning Trash or Feces","Yes",25
+287,"ODSS",0,"Chemical Solvents","Yes",25
+287,"OIF/OEF/OND",0,"Chlorine Gas","Yes",24
+287,"ODSS",2,"Depleted Uranium","Yes",25
+287,"OIF/OEF/OND",1,"Fog Oils","No",25
+287,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",25
+287,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",25
+287,"OIF/OEF/OND",1,"Infectious Disease","Yes",26
+287,"ODSS",1,"Insect Bites","Yes",26
+287,"OIF/OEF/OND",1,"Lasers","Yes",26
+287,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",24
+287,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",24
+287,"ODSS",0,"Nerve Agent Antidotes","No",26
+287,"ODSS",2,"Loud Noises","Don't Know",25
+287,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",25
+287,"OIF/OEF/OND",2,"Paint","Yes",25
+287,"OIF/OEF/OND",1,"Pesticides","No",26
+287,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",27
+287,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",26
+287,"ODSS",2,"Prophylactic Meds","Don't Know",25
+287,"ODSS",2,"Radar/Microwaves","Yes",25
+287,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",25
+287,"OIF/OEF/OND",2,"Sand/Dust","Yes",24
+287,"ODSS",2,"Vaccinations","Don't Know",25
+287,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",25
+287,"ODSS",1,"Bathed in Contaminated Water","Don't Know",24
+287,"OIF/OEF/OND",0,"Chemical Weapons","Yes",25
+287,"ODSS",2,"Weapons Exhaust","Don't Know",24
+100,"OIF/OEF/OND",0,"Animal Bodies","Yes",23
+100,"ODSS",0,"Anthrax Vaccine","Don't Know",22
+100,"ODSS",0,"Asbestos","No",22
+100,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",21
+100,"OIF/OEF/OND",0,"Animal Bites","Yes",22
+100,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",22
+100,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",22
+100,"ODSS",0,"Chemical Solvents","Don't Know",21
+100,"OIF/OEF/OND",0,"Chlorine Gas","Yes",22
+100,"OIF/OEF/OND",2,"Depleted Uranium","Yes",22
+100,"OIF/OEF/OND",1,"Fog Oils","Don't Know",22
+100,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",21
+100,"ODSS",0,"Agent Orange or Other Herbicides","No",23
+100,"ODSS",1,"Infectious Disease","Yes",22
+100,"OIF/OEF/OND",1,"Insect Bites","Don't Know",23
+100,"ODSS",1,"Lasers","Don't Know",23
+100,"ODSS",2,"Embedded Metal Fragments","Yes",23
+100,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",23
+100,"ODSS",0,"Nerve Agent Antidotes","Yes",22
+100,"ODSS",2,"Loud Noises","Yes",21
+100,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",22
+100,"OIF/OEF/OND",2,"Paint","Yes",21
+100,"ODSS",1,"Pesticides","No",23
+100,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",22
+100,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",23
+100,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",22
+100,"ODSS",2,"Radar/Microwaves","Don't Know",22
+100,"ODSS",1,"Ionizing Radiation","Don't Know",21
+100,"OIF/OEF/OND",2,"Sand/Dust","Yes",23
+100,"OIF/OEF/OND",2,"Vaccinations","Yes",22
+100,"ODSS",1,"Excessive Vibration","Yes",22
+100,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",22
+100,"ODSS",0,"Chemical Weapons","Yes",24
+100,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",22
+88,"ODSS",0,"Animal Bodies","Yes",17
+88,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",17
+88,"OIF/OEF/OND",0,"Asbestos","No",18
+88,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",15
+88,"ODSS",0,"Animal Bites","Don't Know",18
+88,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",18
+88,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",17
+88,"ODSS",0,"Chemical Solvents","Yes",17
+88,"ODSS",0,"Chlorine Gas","No",16
+88,"ODSS",2,"Depleted Uranium","No",17
+88,"OIF/OEF/OND",1,"Fog Oils","Don't Know",16
+88,"ODSS",2,"Tent Heater Smoke","Don't Know",17
+88,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",15
+88,"ODSS",1,"Infectious Disease","Don't Know",16
+88,"OIF/OEF/OND",1,"Insect Bites","No",17
+88,"OIF/OEF/OND",1,"Lasers","No",17
+88,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",17
+88,"ODSS",0,"Chemical Alarms/MOPP4","No",17
+88,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",17
+88,"OIF/OEF/OND",2,"Loud Noises","No",17
+88,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",18
+88,"ODSS",2,"Paint","Don't Know",16
+88,"ODSS",2,"Pesticides","Yes",17
+88,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",17
+88,"OIF/OEF/OND",1,"Industrial Pollution","No",17
+88,"OIF/OEF/OND",2,"Prophylactic Meds","No",16
+88,"ODSS",2,"Radar/Microwaves","Don't Know",17
+88,"ODSS",1,"Ionizing Radiation","Yes",18
+88,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",17
+88,"ODSS",2,"Vaccinations","Yes",15
+88,"ODSS",1,"Excessive Vibration","No",17
+88,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",17
+88,"ODSS",0,"Chemical Weapons","No",16
+88,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",16
+304,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",13
+304,"ODSS",0,"Anthrax Vaccine","No",15
+304,"ODSS",0,"Asbestos","Don't Know",13
+304,"ODSS",0,"Biological Warfare Agents","Don't Know",13
+304,"ODSS",0,"Animal Bites","No",12
+304,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",14
+304,"ODSS",2,"Burning Trash or Feces","Yes",13
+304,"OIF/OEF/OND",0,"Chemical Solvents","Yes",13
+304,"ODSS",0,"Chlorine Gas","Yes",12
+304,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",12
+304,"OIF/OEF/OND",1,"Fog Oils","Yes",13
+304,"OIF/OEF/OND",2,"Tent Heater Smoke","No",12
+304,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",13
+304,"OIF/OEF/OND",1,"Infectious Disease","No",14
+304,"ODSS",1,"Insect Bites","Don't Know",13
+304,"ODSS",1,"Lasers","Don't Know",14
+304,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",13
+304,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",12
+304,"ODSS",0,"Nerve Agent Antidotes","Don't Know",13
+304,"OIF/OEF/OND",2,"Loud Noises","No",14
+304,"ODSS",1,"Ingestion of Contaminated Water","No",12
+304,"ODSS",2,"Paint","Don't Know",12
+304,"ODSS",1,"Pesticides","Yes",12
+304,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",13
+304,"OIF/OEF/OND",1,"Industrial Pollution","Yes",14
+304,"ODSS",2,"Prophylactic Meds","Yes",12
+304,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",15
+304,"ODSS",1,"Ionizing Radiation","No",12
+304,"ODSS",2,"Sand/Dust","Yes",12
+304,"ODSS",2,"Vaccinations","Don't Know",14
+304,"OIF/OEF/OND",1,"Excessive Vibration","Yes",13
+304,"ODSS",1,"Bathed in Contaminated Water","No",12
+304,"OIF/OEF/OND",0,"Chemical Weapons","Yes",13
+304,"ODSS",2,"Weapons Exhaust","Yes",13
+169,"ODSS",0,"Animal Bodies","Don't Know",24
+169,"ODSS",0,"Anthrax Vaccine","Don't Know",21
+169,"OIF/OEF/OND",0,"Asbestos","Don't Know",23
+169,"ODSS",0,"Biological Warfare Agents","Don't Know",24
+169,"OIF/OEF/OND",0,"Animal Bites","Don't Know",21
+169,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",23
+169,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",23
+169,"OIF/OEF/OND",0,"Chemical Solvents","No",22
+169,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",23
+169,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",23
+169,"OIF/OEF/OND",1,"Fog Oils","Yes",23
+169,"ODSS",2,"Tent Heater Smoke","Yes",23
+169,"ODSS",0,"Agent Orange or Other Herbicides","No",24
+169,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",22
+169,"OIF/OEF/OND",1,"Insect Bites","Yes",23
+169,"ODSS",1,"Lasers","Don't Know",23
+169,"ODSS",2,"Embedded Metal Fragments","Yes",24
+169,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",24
+169,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",24
+169,"ODSS",2,"Loud Noises","No",22
+169,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",22
+169,"OIF/OEF/OND",2,"Paint","Don't Know",23
+169,"ODSS",1,"Pesticides","Yes",23
+169,"ODSS",2,"Petrochemical Fuels or Fumes","No",23
+169,"OIF/OEF/OND",1,"Industrial Pollution","Yes",23
+169,"OIF/OEF/OND",2,"Prophylactic Meds","No",23
+169,"OIF/OEF/OND",2,"Radar/Microwaves","No",24
+169,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",22
+169,"OIF/OEF/OND",2,"Sand/Dust","No",23
+169,"OIF/OEF/OND",2,"Vaccinations","Don't Know",21
+169,"ODSS",1,"Excessive Vibration","Don't Know",23
+169,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",25
+169,"OIF/OEF/OND",0,"Chemical Weapons","Yes",23
+169,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",23
+216,"ODSS",0,"Animal Bodies","Don't Know",22
+216,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",22
+216,"ODSS",0,"Asbestos","Yes",20
+216,"OIF/OEF/OND",0,"Biological Warfare Agents","No",22
+216,"ODSS",0,"Animal Bites","Yes",21
+216,"ODSS",1,"Human Blood/Bodily Fluids","No",21
+216,"ODSS",2,"Burning Trash or Feces","Yes",22
+216,"ODSS",0,"Chemical Solvents","No",21
+216,"ODSS",0,"Chlorine Gas","No",22
+216,"ODSS",2,"Depleted Uranium","Yes",22
+216,"OIF/OEF/OND",1,"Fog Oils","Don't Know",22
+216,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",21
+216,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",21
+216,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",21
+216,"OIF/OEF/OND",1,"Insect Bites","Don't Know",20
+216,"ODSS",1,"Lasers","Don't Know",20
+216,"ODSS",2,"Embedded Metal Fragments","No",22
+216,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",21
+216,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",22
+216,"OIF/OEF/OND",2,"Loud Noises","Yes",21
+216,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",20
+216,"OIF/OEF/OND",2,"Paint","No",22
+216,"ODSS",1,"Pesticides","Don't Know",21
+216,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",21
+216,"OIF/OEF/OND",1,"Industrial Pollution","No",22
+216,"ODSS",2,"Prophylactic Meds","Yes",21
+216,"OIF/OEF/OND",2,"Radar/Microwaves","No",22
+216,"ODSS",1,"Ionizing Radiation","Yes",20
+216,"OIF/OEF/OND",2,"Sand/Dust","Yes",21
+216,"ODSS",2,"Vaccinations","No",19
+216,"OIF/OEF/OND",1,"Excessive Vibration","Yes",22
+216,"ODSS",1,"Bathed in Contaminated Water","No",20
+216,"ODSS",0,"Chemical Weapons","Yes",21
+216,"ODSS",2,"Weapons Exhaust","No",22
+389,"OIF/OEF/OND",0,"Animal Bodies","Yes",14
+389,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",14
+389,"ODSS",0,"Asbestos","Yes",14
+389,"ODSS",0,"Biological Warfare Agents","Yes",15
+389,"OIF/OEF/OND",0,"Animal Bites","Don't Know",15
+389,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",15
+389,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",15
+389,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",17
+389,"OIF/OEF/OND",0,"Chlorine Gas","Yes",15
+389,"ODSS",2,"Depleted Uranium","Don't Know",15
+389,"ODSS",1,"Fog Oils","Don't Know",14
+389,"OIF/OEF/OND",2,"Tent Heater Smoke","No",14
+389,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",15
+389,"ODSS",1,"Infectious Disease","Yes",15
+389,"OIF/OEF/OND",1,"Insect Bites","Don't Know",14
+389,"ODSS",1,"Lasers","Yes",16
+389,"ODSS",2,"Embedded Metal Fragments","Yes",15
+389,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",15
+389,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",16
+389,"OIF/OEF/OND",2,"Loud Noises","Don't Know",15
+389,"ODSS",1,"Ingestion of Contaminated Water","Yes",14
+389,"ODSS",2,"Paint","No",16
+389,"ODSS",1,"Pesticides","Yes",14
+389,"ODSS",2,"Petrochemical Fuels or Fumes","No",15
+389,"ODSS",1,"Industrial Pollution","Don't Know",13
+389,"OIF/OEF/OND",2,"Prophylactic Meds","No",14
+389,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",16
+389,"ODSS",1,"Ionizing Radiation","Yes",16
+389,"ODSS",2,"Sand/Dust","Yes",14
+389,"OIF/OEF/OND",2,"Vaccinations","Yes",16
+389,"ODSS",1,"Excessive Vibration","Yes",15
+389,"ODSS",1,"Bathed in Contaminated Water","No",15
+389,"OIF/OEF/OND",0,"Chemical Weapons","No",15
+389,"ODSS",2,"Weapons Exhaust","Yes",15
+190,"OIF/OEF/OND",0,"Animal Bodies","No",20
+190,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",19
+190,"ODSS",0,"Asbestos","No",19
+190,"OIF/OEF/OND",0,"Biological Warfare Agents","No",19
+190,"ODSS",0,"Animal Bites","Don't Know",20
+190,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",19
+190,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",19
+190,"ODSS",0,"Chemical Solvents","Yes",19
+190,"OIF/OEF/OND",0,"Chlorine Gas","Yes",19
+190,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",18
+190,"ODSS",1,"Fog Oils","No",20
+190,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",19
+190,"ODSS",0,"Agent Orange or Other Herbicides","No",19
+190,"ODSS",1,"Infectious Disease","No",18
+190,"ODSS",1,"Insect Bites","No",20
+190,"OIF/OEF/OND",1,"Lasers","Don't Know",19
+190,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",18
+190,"ODSS",0,"Chemical Alarms/MOPP4","No",21
+190,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",18
+190,"ODSS",2,"Loud Noises","No",19
+190,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",18
+190,"ODSS",2,"Paint","No",19
+190,"ODSS",1,"Pesticides","Yes",19
+190,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",18
+190,"OIF/OEF/OND",1,"Industrial Pollution","No",20
+190,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",19
+190,"ODSS",2,"Radar/Microwaves","No",19
+190,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",20
+190,"ODSS",2,"Sand/Dust","Don't Know",20
+190,"OIF/OEF/OND",2,"Vaccinations","No",19
+190,"ODSS",1,"Excessive Vibration","Yes",20
+190,"ODSS",1,"Bathed in Contaminated Water","Don't Know",19
+190,"ODSS",0,"Chemical Weapons","No",19
+190,"ODSS",2,"Weapons Exhaust","No",18
+190,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",20
+190,"OIF/OEF/OND",0,"Anthrax Vaccine","No",19
+190,"OIF/OEF/OND",0,"Asbestos","No",19
+190,"ODSS",0,"Biological Warfare Agents","No",21
+190,"ODSS",0,"Animal Bites","No",19
+190,"ODSS",1,"Human Blood/Bodily Fluids","No",20
+190,"ODSS",2,"Burning Trash or Feces","No",19
+190,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",19
+190,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",19
+190,"ODSS",2,"Depleted Uranium","Don't Know",19
+190,"OIF/OEF/OND",1,"Fog Oils","Don't Know",20
+190,"ODSS",2,"Tent Heater Smoke","Yes",19
+190,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",19
+190,"OIF/OEF/OND",1,"Infectious Disease","No",19
+190,"OIF/OEF/OND",1,"Insect Bites","Yes",18
+190,"ODSS",1,"Lasers","No",20
+190,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",19
+190,"ODSS",0,"Chemical Alarms/MOPP4","Yes",19
+190,"ODSS",0,"Nerve Agent Antidotes","Yes",20
+190,"OIF/OEF/OND",2,"Loud Noises","Yes",19
+190,"ODSS",2,"Ingestion of Contaminated Water","Yes",19
+190,"ODSS",2,"Paint","Don't Know",20
+190,"ODSS",1,"Pesticides","Don't Know",20
+190,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",19
+190,"OIF/OEF/OND",1,"Industrial Pollution","No",19
+190,"ODSS",2,"Prophylactic Meds","No",18
+190,"ODSS",2,"Radar/Microwaves","Don't Know",19
+190,"ODSS",1,"Ionizing Radiation","Don't Know",18
+190,"OIF/OEF/OND",2,"Sand/Dust","No",18
+190,"ODSS",2,"Vaccinations","Don't Know",20
+190,"OIF/OEF/OND",1,"Excessive Vibration","Yes",19
+190,"ODSS",1,"Bathed in Contaminated Water","No",20
+190,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",18
+190,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",18
+114,"ODSS",0,"Animal Bodies","Don't Know",27
+114,"OIF/OEF/OND",0,"Anthrax Vaccine","No",26
+114,"ODSS",0,"Asbestos","Yes",26
+114,"ODSS",0,"Biological Warfare Agents","No",25
+114,"ODSS",0,"Animal Bites","No",27
+114,"ODSS",1,"Human Blood/Bodily Fluids","Yes",26
+114,"ODSS",2,"Burning Trash or Feces","No",27
+114,"OIF/OEF/OND",0,"Chemical Solvents","No",25
+114,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",25
+114,"ODSS",2,"Depleted Uranium","Yes",26
+114,"OIF/OEF/OND",1,"Fog Oils","Don't Know",25
+114,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",27
+114,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",26
+114,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",27
+114,"OIF/OEF/OND",1,"Insect Bites","No",26
+114,"OIF/OEF/OND",1,"Lasers","Yes",25
+114,"ODSS",2,"Embedded Metal Fragments","Don't Know",27
+114,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",27
+114,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",26
+114,"ODSS",2,"Loud Noises","Don't Know",27
+114,"ODSS",1,"Ingestion of Contaminated Water","Yes",26
+114,"ODSS",2,"Paint","Yes",26
+114,"OIF/OEF/OND",1,"Pesticides","Don't Know",25
+114,"ODSS",2,"Petrochemical Fuels or Fumes","No",25
+114,"ODSS",1,"Industrial Pollution","Yes",26
+114,"ODSS",2,"Prophylactic Meds","Yes",26
+114,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",27
+114,"OIF/OEF/OND",1,"Ionizing Radiation","No",26
+114,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",25
+114,"ODSS",2,"Vaccinations","Yes",26
+114,"ODSS",1,"Excessive Vibration","Yes",27
+114,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",26
+114,"ODSS",0,"Chemical Weapons","Yes",26
+114,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",25
+44,"OIF/OEF/OND",0,"Animal Bodies","Yes",17
+44,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",16
+44,"OIF/OEF/OND",0,"Asbestos","No",17
+44,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",17
+44,"ODSS",0,"Animal Bites","No",16
+44,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",17
+44,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",17
+44,"OIF/OEF/OND",0,"Chemical Solvents","No",18
+44,"OIF/OEF/OND",0,"Chlorine Gas","No",18
+44,"ODSS",2,"Depleted Uranium","Don't Know",18
+44,"ODSS",1,"Fog Oils","No",16
+44,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",17
+44,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",18
+44,"OIF/OEF/OND",1,"Infectious Disease","Yes",17
+44,"ODSS",1,"Insect Bites","Don't Know",18
+44,"OIF/OEF/OND",1,"Lasers","Yes",18
+44,"ODSS",2,"Embedded Metal Fragments","No",18
+44,"ODSS",0,"Chemical Alarms/MOPP4","Yes",18
+44,"ODSS",0,"Nerve Agent Antidotes","Don't Know",18
+44,"ODSS",2,"Loud Noises","Don't Know",19
+44,"ODSS",1,"Ingestion of Contaminated Water","Yes",17
+44,"ODSS",2,"Paint","No",18
+44,"OIF/OEF/OND",1,"Pesticides","Don't Know",16
+44,"ODSS",2,"Petrochemical Fuels or Fumes","No",17
+44,"ODSS",1,"Industrial Pollution","Yes",18
+44,"OIF/OEF/OND",2,"Prophylactic Meds","No",19
+44,"ODSS",2,"Radar/Microwaves","Yes",17
+44,"ODSS",1,"Ionizing Radiation","Don't Know",16
+44,"ODSS",2,"Sand/Dust","Don't Know",17
+44,"ODSS",2,"Vaccinations","Don't Know",18
+44,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",16
+44,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",19
+44,"ODSS",0,"Chemical Weapons","Yes",16
+44,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",18
+108,"OIF/OEF/OND",0,"Animal Bodies","No",20
+108,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",20
+108,"OIF/OEF/OND",0,"Asbestos","Yes",21
+108,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",20
+108,"ODSS",0,"Animal Bites","Don't Know",20
+108,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",19
+108,"OIF/OEF/OND",2,"Burning Trash or Feces","No",20
+108,"ODSS",0,"Chemical Solvents","Don't Know",21
+108,"OIF/OEF/OND",0,"Chlorine Gas","No",21
+108,"OIF/OEF/OND",2,"Depleted Uranium","Yes",20
+108,"ODSS",1,"Fog Oils","No",20
+108,"ODSS",2,"Tent Heater Smoke","Don't Know",20
+108,"ODSS",0,"Agent Orange or Other Herbicides","Yes",19
+108,"ODSS",1,"Infectious Disease","No",21
+108,"ODSS",1,"Insect Bites","No",20
+108,"OIF/OEF/OND",1,"Lasers","Yes",19
+108,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",20
+108,"ODSS",0,"Chemical Alarms/MOPP4","No",19
+108,"ODSS",0,"Nerve Agent Antidotes","No",20
+108,"OIF/OEF/OND",2,"Loud Noises","No",19
+108,"ODSS",1,"Ingestion of Contaminated Water","No",20
+108,"OIF/OEF/OND",2,"Paint","No",21
+108,"ODSS",1,"Pesticides","No",20
+108,"ODSS",2,"Petrochemical Fuels or Fumes","No",20
+108,"ODSS",1,"Industrial Pollution","Yes",20
+108,"ODSS",2,"Prophylactic Meds","Yes",20
+108,"ODSS",2,"Radar/Microwaves","Don't Know",20
+108,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",21
+108,"ODSS",2,"Sand/Dust","Don't Know",21
+108,"OIF/OEF/OND",2,"Vaccinations","Don't Know",21
+108,"ODSS",1,"Excessive Vibration","Don't Know",19
+108,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",20
+108,"OIF/OEF/OND",0,"Chemical Weapons","No",20
+108,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",20
+213,"ODSS",0,"Animal Bodies","Don't Know",24
+213,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",25
+213,"ODSS",0,"Asbestos","Don't Know",25
+213,"ODSS",0,"Biological Warfare Agents","Yes",24
+213,"ODSS",0,"Animal Bites","Don't Know",25
+213,"ODSS",1,"Human Blood/Bodily Fluids","No",25
+213,"ODSS",2,"Burning Trash or Feces","Yes",26
+213,"ODSS",0,"Chemical Solvents","Yes",25
+213,"OIF/OEF/OND",0,"Chlorine Gas","Yes",25
+213,"OIF/OEF/OND",2,"Depleted Uranium","No",25
+213,"OIF/OEF/OND",1,"Fog Oils","Yes",24
+213,"ODSS",2,"Tent Heater Smoke","Yes",25
+213,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",25
+213,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",27
+213,"ODSS",1,"Insect Bites","Yes",26
+213,"ODSS",1,"Lasers","Don't Know",24
+213,"ODSS",2,"Embedded Metal Fragments","No",25
+213,"ODSS",0,"Chemical Alarms/MOPP4","No",25
+213,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",24
+213,"OIF/OEF/OND",2,"Loud Noises","No",26
+213,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",25
+213,"ODSS",2,"Paint","Yes",24
+213,"OIF/OEF/OND",1,"Pesticides","Don't Know",25
+213,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",25
+213,"ODSS",1,"Industrial Pollution","Yes",26
+213,"ODSS",2,"Prophylactic Meds","Don't Know",25
+213,"OIF/OEF/OND",2,"Radar/Microwaves","No",25
+213,"ODSS",1,"Ionizing Radiation","Yes",24
+213,"ODSS",2,"Sand/Dust","No",25
+213,"ODSS",2,"Vaccinations","No",25
+213,"OIF/OEF/OND",1,"Excessive Vibration","No",27
+213,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",25
+213,"ODSS",0,"Chemical Weapons","No",24
+213,"ODSS",2,"Weapons Exhaust","No",26
+79,"OIF/OEF/OND",0,"Animal Bodies","Yes",14
+79,"OIF/OEF/OND",0,"Anthrax Vaccine","No",15
+79,"OIF/OEF/OND",0,"Asbestos","No",15
+79,"ODSS",0,"Biological Warfare Agents","No",16
+79,"ODSS",0,"Animal Bites","No",15
+79,"ODSS",1,"Human Blood/Bodily Fluids","Yes",16
+79,"ODSS",2,"Burning Trash or Feces","Yes",15
+79,"OIF/OEF/OND",0,"Chemical Solvents","Yes",18
+79,"ODSS",0,"Chlorine Gas","Don't Know",15
+79,"ODSS",2,"Depleted Uranium","Don't Know",14
+79,"ODSS",1,"Fog Oils","Don't Know",14
+79,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",16
+79,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",14
+79,"OIF/OEF/OND",1,"Infectious Disease","No",16
+79,"ODSS",1,"Insect Bites","Yes",15
+79,"ODSS",1,"Lasers","Yes",15
+79,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",16
+79,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",14
+79,"OIF/OEF/OND",0,"Nerve Agent Antidotes","No",14
+79,"OIF/OEF/OND",2,"Loud Noises","Don't Know",15
+79,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",14
+79,"OIF/OEF/OND",2,"Paint","No",15
+79,"OIF/OEF/OND",1,"Pesticides","Yes",14
+79,"ODSS",2,"Petrochemical Fuels or Fumes","No",15
+79,"ODSS",1,"Industrial Pollution","Don't Know",16
+79,"ODSS",2,"Prophylactic Meds","Yes",14
+79,"OIF/OEF/OND",2,"Radar/Microwaves","No",15
+79,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",14
+79,"ODSS",2,"Sand/Dust","Don't Know",14
+79,"OIF/OEF/OND",2,"Vaccinations","No",15
+79,"ODSS",1,"Excessive Vibration","Don't Know",15
+79,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",15
+79,"ODSS",0,"Chemical Weapons","Don't Know",14
+79,"OIF/OEF/OND",2,"Weapons Exhaust","No",15
+62,"ODSS",0,"Animal Bodies","No",15
+62,"ODSS",0,"Anthrax Vaccine","Don't Know",14
+62,"OIF/OEF/OND",0,"Asbestos","Yes",14
+62,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",14
+62,"ODSS",0,"Animal Bites","Don't Know",13
+62,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",15
+62,"ODSS",2,"Burning Trash or Feces","Don't Know",13
+62,"ODSS",0,"Chemical Solvents","Don't Know",14
+62,"ODSS",0,"Chlorine Gas","Yes",13
+62,"ODSS",2,"Depleted Uranium","Don't Know",14
+62,"ODSS",1,"Fog Oils","No",14
+62,"ODSS",2,"Tent Heater Smoke","Yes",14
+62,"ODSS",0,"Agent Orange or Other Herbicides","Don't Know",14
+62,"OIF/OEF/OND",1,"Infectious Disease","No",14
+62,"ODSS",1,"Insect Bites","Yes",15
+62,"ODSS",1,"Lasers","Don't Know",14
+62,"ODSS",2,"Embedded Metal Fragments","Yes",14
+62,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",14
+62,"ODSS",0,"Nerve Agent Antidotes","Don't Know",14
+62,"OIF/OEF/OND",2,"Loud Noises","No",14
+62,"ODSS",1,"Ingestion of Contaminated Water","Yes",14
+62,"OIF/OEF/OND",2,"Paint","Yes",14
+62,"ODSS",1,"Pesticides","Don't Know",14
+62,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",14
+62,"OIF/OEF/OND",1,"Industrial Pollution","No",15
+62,"ODSS",2,"Prophylactic Meds","Don't Know",15
+62,"ODSS",2,"Radar/Microwaves","Don't Know",14
+62,"ODSS",1,"Ionizing Radiation","No",15
+62,"OIF/OEF/OND",2,"Sand/Dust","Yes",14
+62,"OIF/OEF/OND",2,"Vaccinations","No",14
+62,"ODSS",1,"Excessive Vibration","Yes",14
+62,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",13
+62,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",15
+62,"ODSS",2,"Weapons Exhaust","No",14
+323,"ODSS",0,"Animal Bodies","Don't Know",21
+323,"ODSS",0,"Anthrax Vaccine","Don't Know",19
+323,"ODSS",0,"Asbestos","Yes",19
+323,"ODSS",0,"Biological Warfare Agents","No",20
+323,"ODSS",0,"Animal Bites","Don't Know",20
+323,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",20
+323,"ODSS",2,"Burning Trash or Feces","Don't Know",21
+323,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",20
+323,"OIF/OEF/OND",0,"Chlorine Gas","No",20
+323,"OIF/OEF/OND",2,"Depleted Uranium","Yes",21
+323,"ODSS",1,"Fog Oils","No",20
+323,"ODSS",2,"Tent Heater Smoke","Don't Know",19
+323,"ODSS",0,"Agent Orange or Other Herbicides","No",21
+323,"ODSS",1,"Infectious Disease","No",19
+323,"OIF/OEF/OND",1,"Insect Bites","Yes",21
+323,"ODSS",1,"Lasers","No",21
+323,"ODSS",2,"Embedded Metal Fragments","Yes",18
+323,"ODSS",0,"Chemical Alarms/MOPP4","Yes",20
+323,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",19
+323,"ODSS",2,"Loud Noises","Don't Know",21
+323,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",19
+323,"ODSS",2,"Paint","Yes",18
+323,"ODSS",1,"Pesticides","Don't Know",20
+323,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",19
+323,"OIF/OEF/OND",1,"Industrial Pollution","No",20
+323,"ODSS",2,"Prophylactic Meds","Yes",19
+323,"ODSS",2,"Radar/Microwaves","Don't Know",21
+323,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",20
+323,"ODSS",2,"Sand/Dust","Yes",20
+323,"OIF/OEF/OND",2,"Vaccinations","Yes",21
+323,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",19
+323,"ODSS",1,"Bathed in Contaminated Water","Yes",21
+323,"OIF/OEF/OND",0,"Chemical Weapons","Yes",21
+323,"ODSS",2,"Weapons Exhaust","Don't Know",21
+46,"ODSS",0,"Animal Bodies","No",21
+46,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",19
+46,"ODSS",0,"Asbestos","Yes",20
+46,"ODSS",0,"Biological Warfare Agents","Don't Know",19
+46,"ODSS",0,"Animal Bites","Yes",21
+46,"ODSS",1,"Human Blood/Bodily Fluids","Yes",20
+46,"ODSS",2,"Burning Trash or Feces","No",20
+46,"OIF/OEF/OND",0,"Chemical Solvents","Yes",21
+46,"OIF/OEF/OND",0,"Chlorine Gas","No",19
+46,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",21
+46,"ODSS",1,"Fog Oils","Yes",20
+46,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",20
+46,"ODSS",0,"Agent Orange or Other Herbicides","Yes",20
+46,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",19
+46,"ODSS",1,"Insect Bites","Yes",19
+46,"ODSS",1,"Lasers","Don't Know",20
+46,"OIF/OEF/OND",1,"Embedded Metal Fragments","Yes",20
+46,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",20
+46,"ODSS",0,"Nerve Agent Antidotes","Yes",20
+46,"ODSS",2,"Loud Noises","Yes",21
+46,"ODSS",1,"Ingestion of Contaminated Water","Yes",20
+46,"OIF/OEF/OND",2,"Paint","No",20
+46,"OIF/OEF/OND",1,"Pesticides","Yes",21
+46,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",20
+46,"OIF/OEF/OND",1,"Industrial Pollution","No",21
+46,"OIF/OEF/OND",2,"Prophylactic Meds","No",20
+46,"ODSS",2,"Radar/Microwaves","No",19
+46,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",19
+46,"ODSS",2,"Sand/Dust","Yes",20
+46,"OIF/OEF/OND",2,"Vaccinations","Don't Know",21
+46,"ODSS",1,"Excessive Vibration","No",19
+46,"ODSS",1,"Bathed in Contaminated Water","No",21
+46,"OIF/OEF/OND",0,"Chemical Weapons","Yes",20
+46,"ODSS",2,"Weapons Exhaust","Yes",19
+103,"ODSS",0,"Animal Bodies","Yes",19
+103,"ODSS",0,"Anthrax Vaccine","No",19
+103,"ODSS",0,"Asbestos","No",20
+103,"OIF/OEF/OND",0,"Biological Warfare Agents","No",19
+103,"ODSS",0,"Animal Bites","Yes",20
+103,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",19
+103,"ODSS",2,"Burning Trash or Feces","No",21
+103,"OIF/OEF/OND",0,"Chemical Solvents","No",20
+103,"ODSS",0,"Chlorine Gas","Don't Know",19
+103,"ODSS",2,"Depleted Uranium","No",21
+103,"OIF/OEF/OND",1,"Fog Oils","No",19
+103,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",19
+103,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",19
+103,"ODSS",1,"Infectious Disease","Don't Know",19
+103,"ODSS",1,"Insect Bites","No",18
+103,"OIF/OEF/OND",1,"Lasers","Yes",19
+103,"ODSS",2,"Embedded Metal Fragments","Yes",19
+103,"ODSS",0,"Chemical Alarms/MOPP4","No",18
+103,"ODSS",0,"Nerve Agent Antidotes","Don't Know",19
+103,"OIF/OEF/OND",2,"Loud Noises","No",18
+103,"ODSS",1,"Ingestion of Contaminated Water","No",19
+103,"ODSS",2,"Paint","Yes",18
+103,"OIF/OEF/OND",1,"Pesticides","Don't Know",17
+103,"ODSS",2,"Petrochemical Fuels or Fumes","No",20
+103,"OIF/OEF/OND",1,"Industrial Pollution","No",18
+103,"ODSS",2,"Prophylactic Meds","Don't Know",19
+103,"ODSS",2,"Radar/Microwaves","No",19
+103,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",19
+103,"ODSS",2,"Sand/Dust","No",19
+103,"ODSS",2,"Vaccinations","Don't Know",18
+103,"OIF/OEF/OND",1,"Excessive Vibration","No",19
+103,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",20
+103,"ODSS",0,"Chemical Weapons","Don't Know",20
+103,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",19
+120,"ODSS",0,"Animal Bodies","Yes",19
+120,"ODSS",0,"Anthrax Vaccine","Yes",21
+120,"OIF/OEF/OND",0,"Asbestos","Yes",20
+120,"ODSS",0,"Biological Warfare Agents","Don't Know",21
+120,"ODSS",0,"Animal Bites","Yes",21
+120,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",22
+120,"OIF/OEF/OND",2,"Burning Trash or Feces","No",21
+120,"OIF/OEF/OND",0,"Chemical Solvents","No",22
+120,"ODSS",0,"Chlorine Gas","Don't Know",21
+120,"ODSS",2,"Depleted Uranium","Yes",21
+120,"ODSS",1,"Fog Oils","Don't Know",21
+120,"OIF/OEF/OND",2,"Tent Heater Smoke","No",21
+120,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",20
+120,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",22
+120,"OIF/OEF/OND",1,"Insect Bites","No",21
+120,"OIF/OEF/OND",1,"Lasers","Don't Know",22
+120,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",20
+120,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",21
+120,"ODSS",0,"Nerve Agent Antidotes","Don't Know",21
+120,"ODSS",2,"Loud Noises","Yes",21
+120,"ODSS",1,"Ingestion of Contaminated Water","Yes",20
+120,"OIF/OEF/OND",2,"Paint","Yes",21
+120,"OIF/OEF/OND",1,"Pesticides","Yes",21
+120,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",20
+120,"OIF/OEF/OND",1,"Industrial Pollution","Yes",20
+120,"OIF/OEF/OND",2,"Prophylactic Meds","No",22
+120,"ODSS",2,"Radar/Microwaves","Don't Know",22
+120,"OIF/OEF/OND",1,"Ionizing Radiation","No",21
+120,"ODSS",2,"Sand/Dust","No",21
+120,"ODSS",2,"Vaccinations","No",22
+120,"OIF/OEF/OND",1,"Excessive Vibration","No",22
+120,"ODSS",1,"Bathed in Contaminated Water","Don't Know",23
+120,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",21
+120,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",22
+58,"ODSS",0,"Animal Bodies","Don't Know",24
+58,"ODSS",0,"Anthrax Vaccine","No",25
+58,"ODSS",0,"Asbestos","Yes",25
+58,"ODSS",0,"Biological Warfare Agents","No",24
+58,"ODSS",0,"Animal Bites","Don't Know",24
+58,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",25
+58,"OIF/OEF/OND",2,"Burning Trash or Feces","No",24
+58,"ODSS",0,"Chemical Solvents","Yes",24
+58,"OIF/OEF/OND",0,"Chlorine Gas","No",24
+58,"ODSS",2,"Depleted Uranium","Don't Know",25
+58,"ODSS",1,"Fog Oils","Yes",24
+58,"OIF/OEF/OND",2,"Tent Heater Smoke","No",24
+58,"ODSS",0,"Agent Orange or Other Herbicides","Yes",23
+58,"OIF/OEF/OND",1,"Infectious Disease","Yes",24
+58,"ODSS",1,"Insect Bites","No",24
+58,"ODSS",1,"Lasers","Don't Know",24
+58,"ODSS",2,"Embedded Metal Fragments","Don't Know",25
+58,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",23
+58,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",24
+58,"ODSS",2,"Loud Noises","Yes",23
+58,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",22
+58,"OIF/OEF/OND",2,"Paint","No",23
+58,"ODSS",1,"Pesticides","No",24
+58,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",25
+58,"OIF/OEF/OND",1,"Industrial Pollution","Yes",24
+58,"OIF/OEF/OND",2,"Prophylactic Meds","No",25
+58,"ODSS",2,"Radar/Microwaves","No",23
+58,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",23
+58,"OIF/OEF/OND",2,"Sand/Dust","Yes",25
+58,"ODSS",2,"Vaccinations","Yes",24
+58,"ODSS",1,"Excessive Vibration","Yes",22
+58,"ODSS",1,"Bathed in Contaminated Water","Yes",23
+58,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",24
+58,"ODSS",2,"Weapons Exhaust","Don't Know",24
+350,"ODSS",0,"Animal Bodies","No",21
+350,"OIF/OEF/OND",0,"Anthrax Vaccine","No",20
+350,"ODSS",0,"Asbestos","No",21
+350,"ODSS",0,"Biological Warfare Agents","Don't Know",20
+350,"ODSS",0,"Animal Bites","Don't Know",20
+350,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",20
+350,"ODSS",2,"Burning Trash or Feces","Yes",20
+350,"ODSS",0,"Chemical Solvents","Yes",22
+350,"OIF/OEF/OND",0,"Chlorine Gas","Yes",20
+350,"ODSS",2,"Depleted Uranium","Yes",20
+350,"ODSS",1,"Fog Oils","Yes",19
+350,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",20
+350,"ODSS",0,"Agent Orange or Other Herbicides","Yes",20
+350,"OIF/OEF/OND",1,"Infectious Disease","Yes",20
+350,"ODSS",1,"Insect Bites","Don't Know",20
+350,"OIF/OEF/OND",1,"Lasers","Don't Know",21
+350,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",20
+350,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",20
+350,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",20
+350,"OIF/OEF/OND",2,"Loud Noises","No",19
+350,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",20
+350,"ODSS",2,"Paint","Don't Know",22
+350,"OIF/OEF/OND",1,"Pesticides","Yes",21
+350,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",20
+350,"OIF/OEF/OND",1,"Industrial Pollution","No",20
+350,"ODSS",2,"Prophylactic Meds","No",20
+350,"ODSS",2,"Radar/Microwaves","Yes",21
+350,"ODSS",1,"Ionizing Radiation","Don't Know",21
+350,"OIF/OEF/OND",2,"Sand/Dust","Yes",20
+350,"OIF/OEF/OND",2,"Vaccinations","Don't Know",21
+350,"OIF/OEF/OND",1,"Excessive Vibration","Yes",20
+350,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",19
+350,"ODSS",0,"Chemical Weapons","Don't Know",19
+350,"ODSS",2,"Weapons Exhaust","Yes",21
+241,"OIF/OEF/OND",0,"Animal Bodies","No",17
+241,"OIF/OEF/OND",0,"Anthrax Vaccine","No",18
+241,"OIF/OEF/OND",0,"Asbestos","Don't Know",18
+241,"OIF/OEF/OND",0,"Biological Warfare Agents","No",16
+241,"ODSS",0,"Animal Bites","No",18
+241,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",17
+241,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",17
+241,"OIF/OEF/OND",0,"Chemical Solvents","No",18
+241,"ODSS",0,"Chlorine Gas","Don't Know",19
+241,"OIF/OEF/OND",2,"Depleted Uranium","No",18
+241,"OIF/OEF/OND",1,"Fog Oils","Don't Know",18
+241,"ODSS",2,"Tent Heater Smoke","Yes",17
+241,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",18
+241,"OIF/OEF/OND",1,"Infectious Disease","Yes",18
+241,"ODSS",1,"Insect Bites","Don't Know",19
+241,"OIF/OEF/OND",1,"Lasers","No",18
+241,"ODSS",2,"Embedded Metal Fragments","Yes",17
+241,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",18
+241,"ODSS",0,"Nerve Agent Antidotes","No",20
+241,"OIF/OEF/OND",2,"Loud Noises","No",17
+241,"ODSS",1,"Ingestion of Contaminated Water","No",19
+241,"ODSS",2,"Paint","No",18
+241,"ODSS",1,"Pesticides","Don't Know",19
+241,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",17
+241,"ODSS",1,"Industrial Pollution","Don't Know",18
+241,"ODSS",2,"Prophylactic Meds","Don't Know",18
+241,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",18
+241,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",19
+241,"ODSS",2,"Sand/Dust","Don't Know",19
+241,"ODSS",2,"Vaccinations","Yes",17
+241,"ODSS",1,"Excessive Vibration","Yes",18
+241,"ODSS",1,"Bathed in Contaminated Water","Yes",18
+241,"OIF/OEF/OND",0,"Chemical Weapons","Yes",18
+241,"ODSS",2,"Weapons Exhaust","No",17
+75,"ODSS",0,"Animal Bodies","No",17
+75,"ODSS",0,"Anthrax Vaccine","Yes",18
+75,"ODSS",0,"Asbestos","No",18
+75,"ODSS",0,"Biological Warfare Agents","Yes",15
+75,"ODSS",0,"Animal Bites","Don't Know",17
+75,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",17
+75,"ODSS",2,"Burning Trash or Feces","No",18
+75,"OIF/OEF/OND",0,"Chemical Solvents","Yes",17
+75,"OIF/OEF/OND",0,"Chlorine Gas","Yes",18
+75,"ODSS",2,"Depleted Uranium","No",17
+75,"ODSS",1,"Fog Oils","Don't Know",16
+75,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",18
+75,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",16
+75,"ODSS",1,"Infectious Disease","Yes",18
+75,"OIF/OEF/OND",1,"Insect Bites","No",17
+75,"OIF/OEF/OND",1,"Lasers","Don't Know",17
+75,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",17
+75,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Yes",18
+75,"ODSS",0,"Nerve Agent Antidotes","Yes",17
+75,"OIF/OEF/OND",2,"Loud Noises","Yes",17
+75,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",17
+75,"ODSS",2,"Paint","No",16
+75,"ODSS",1,"Pesticides","Yes",17
+75,"ODSS",2,"Petrochemical Fuels or Fumes","No",18
+75,"ODSS",1,"Industrial Pollution","No",16
+75,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",17
+75,"ODSS",2,"Radar/Microwaves","No",18
+75,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",18
+75,"ODSS",2,"Sand/Dust","Don't Know",17
+75,"ODSS",2,"Vaccinations","Don't Know",16
+75,"ODSS",1,"Excessive Vibration","Yes",17
+75,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",16
+75,"ODSS",0,"Chemical Weapons","Don't Know",16
+75,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",17
+95,"ODSS",0,"Animal Bodies","No",17
+95,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",17
+95,"ODSS",0,"Asbestos","Don't Know",18
+95,"ODSS",0,"Biological Warfare Agents","Yes",17
+95,"OIF/OEF/OND",0,"Animal Bites","No",18
+95,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",18
+95,"OIF/OEF/OND",2,"Burning Trash or Feces","No",17
+95,"OIF/OEF/OND",0,"Chemical Solvents","Don't Know",18
+95,"OIF/OEF/OND",0,"Chlorine Gas","Yes",17
+95,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",17
+95,"ODSS",1,"Fog Oils","No",17
+95,"ODSS",2,"Tent Heater Smoke","No",16
+95,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",16
+95,"ODSS",1,"Infectious Disease","No",17
+95,"ODSS",1,"Insect Bites","Don't Know",18
+95,"OIF/OEF/OND",1,"Lasers","No",16
+95,"ODSS",2,"Embedded Metal Fragments","No",17
+95,"ODSS",0,"Chemical Alarms/MOPP4","Yes",18
+95,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",17
+95,"OIF/OEF/OND",2,"Loud Noises","Yes",17
+95,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",19
+95,"ODSS",2,"Paint","Yes",17
+95,"OIF/OEF/OND",1,"Pesticides","Yes",16
+95,"ODSS",2,"Petrochemical Fuels or Fumes","No",17
+95,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",17
+95,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",17
+95,"ODSS",2,"Radar/Microwaves","Yes",16
+95,"ODSS",1,"Ionizing Radiation","Yes",16
+95,"ODSS",2,"Sand/Dust","No",17
+95,"OIF/OEF/OND",2,"Vaccinations","Don't Know",17
+95,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",17
+95,"ODSS",1,"Bathed in Contaminated Water","Don't Know",16
+95,"OIF/OEF/OND",0,"Chemical Weapons","Yes",17
+95,"OIF/OEF/OND",2,"Weapons Exhaust","Yes",17
+370,"ODSS",0,"Animal Bodies","Yes",16
+370,"ODSS",0,"Anthrax Vaccine","Yes",16
+370,"OIF/OEF/OND",0,"Asbestos","No",15
+370,"OIF/OEF/OND",0,"Biological Warfare Agents","No",17
+370,"ODSS",0,"Animal Bites","Don't Know",15
+370,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",16
+370,"ODSS",2,"Burning Trash or Feces","Yes",17
+370,"OIF/OEF/OND",0,"Chemical Solvents","No",16
+370,"OIF/OEF/OND",0,"Chlorine Gas","Yes",17
+370,"ODSS",2,"Depleted Uranium","Don't Know",15
+370,"OIF/OEF/OND",1,"Fog Oils","Don't Know",16
+370,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",15
+370,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",16
+370,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",16
+370,"ODSS",1,"Insect Bites","Don't Know",15
+370,"ODSS",1,"Lasers","No",16
+370,"ODSS",2,"Embedded Metal Fragments","Yes",16
+370,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",15
+370,"ODSS",0,"Nerve Agent Antidotes","Yes",16
+370,"OIF/OEF/OND",2,"Loud Noises","Don't Know",16
+370,"ODSS",1,"Ingestion of Contaminated Water","Yes",14
+370,"OIF/OEF/OND",2,"Paint","Don't Know",16
+370,"ODSS",1,"Pesticides","No",17
+370,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",15
+370,"ODSS",1,"Industrial Pollution","Don't Know",15
+370,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",16
+370,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",16
+370,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",15
+370,"ODSS",2,"Sand/Dust","Yes",16
+370,"OIF/OEF/OND",2,"Vaccinations","No",16
+370,"ODSS",1,"Excessive Vibration","Yes",17
+370,"ODSS",1,"Bathed in Contaminated Water","No",17
+370,"ODSS",0,"Chemical Weapons","Yes",17
+370,"ODSS",2,"Weapons Exhaust","Yes",16
+386,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",12
+386,"ODSS",0,"Anthrax Vaccine","No",13
+386,"ODSS",0,"Asbestos","Don't Know",13
+386,"ODSS",0,"Biological Warfare Agents","Yes",12
+386,"ODSS",0,"Animal Bites","Yes",11
+386,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",12
+386,"ODSS",2,"Burning Trash or Feces","Yes",12
+386,"ODSS",0,"Chemical Solvents","Yes",11
+386,"ODSS",0,"Chlorine Gas","Yes",13
+386,"ODSS",2,"Depleted Uranium","No",13
+386,"OIF/OEF/OND",1,"Fog Oils","No",12
+386,"OIF/OEF/OND",2,"Tent Heater Smoke","No",13
+386,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",12
+386,"OIF/OEF/OND",1,"Infectious Disease","Yes",12
+386,"ODSS",1,"Insect Bites","Don't Know",12
+386,"ODSS",1,"Lasers","No",12
+386,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",13
+386,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",12
+386,"ODSS",0,"Nerve Agent Antidotes","No",12
+386,"ODSS",2,"Loud Noises","Don't Know",12
+386,"ODSS",1,"Ingestion of Contaminated Water","Yes",11
+386,"ODSS",2,"Paint","No",12
+386,"ODSS",1,"Pesticides","Yes",11
+386,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Yes",11
+386,"ODSS",1,"Industrial Pollution","Don't Know",12
+386,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",13
+386,"ODSS",2,"Radar/Microwaves","Yes",12
+386,"OIF/OEF/OND",1,"Ionizing Radiation","No",12
+386,"ODSS",2,"Sand/Dust","Don't Know",13
+386,"ODSS",2,"Vaccinations","Yes",11
+386,"OIF/OEF/OND",1,"Excessive Vibration","Yes",13
+386,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",12
+386,"ODSS",0,"Chemical Weapons","No",11
+386,"ODSS",2,"Weapons Exhaust","Don't Know",12
+189,"OIF/OEF/OND",0,"Animal Bodies","Yes",16
+189,"ODSS",0,"Anthrax Vaccine","No",16
+189,"OIF/OEF/OND",0,"Asbestos","Yes",17
+189,"ODSS",0,"Biological Warfare Agents","Don't Know",17
+189,"ODSS",0,"Animal Bites","No",16
+189,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",16
+189,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",16
+189,"ODSS",0,"Chemical Solvents","Yes",15
+189,"OIF/OEF/OND",0,"Chlorine Gas","Don't Know",17
+189,"OIF/OEF/OND",2,"Depleted Uranium","Don't Know",17
+189,"ODSS",1,"Fog Oils","Don't Know",16
+189,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",15
+189,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Yes",16
+189,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",16
+189,"ODSS",1,"Insect Bites","No",16
+189,"OIF/OEF/OND",1,"Lasers","Don't Know",16
+189,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",16
+189,"ODSS",0,"Chemical Alarms/MOPP4","Yes",16
+189,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",16
+189,"OIF/OEF/OND",2,"Loud Noises","No",16
+189,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",15
+189,"OIF/OEF/OND",2,"Paint","No",16
+189,"ODSS",1,"Pesticides","Don't Know",17
+189,"ODSS",2,"Petrochemical Fuels or Fumes","Don't Know",16
+189,"OIF/OEF/OND",1,"Industrial Pollution","Don't Know",15
+189,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",16
+189,"OIF/OEF/OND",2,"Radar/Microwaves","No",17
+189,"ODSS",1,"Ionizing Radiation","Don't Know",17
+189,"OIF/OEF/OND",2,"Sand/Dust","Yes",16
+189,"ODSS",2,"Vaccinations","Yes",16
+189,"ODSS",1,"Excessive Vibration","Yes",15
+189,"ODSS",1,"Bathed in Contaminated Water","No",16
+189,"OIF/OEF/OND",0,"Chemical Weapons","Yes",16
+189,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",16
+231,"ODSS",0,"Animal Bodies","Don't Know",18
+231,"ODSS",0,"Anthrax Vaccine","Don't Know",19
+231,"OIF/OEF/OND",0,"Asbestos","Don't Know",20
+231,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",19
+231,"OIF/OEF/OND",0,"Animal Bites","Don't Know",19
+231,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",18
+231,"ODSS",2,"Burning Trash or Feces","No",18
+231,"OIF/OEF/OND",0,"Chemical Solvents","No",19
+231,"ODSS",0,"Chlorine Gas","Yes",19
+231,"OIF/OEF/OND",2,"Depleted Uranium","No",20
+231,"OIF/OEF/OND",1,"Fog Oils","Don't Know",19
+231,"ODSS",2,"Tent Heater Smoke","Don't Know",18
+231,"ODSS",0,"Agent Orange or Other Herbicides","Yes",19
+231,"OIF/OEF/OND",1,"Infectious Disease","No",21
+231,"OIF/OEF/OND",1,"Insect Bites","No",19
+231,"OIF/OEF/OND",1,"Lasers","No",19
+231,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",19
+231,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",19
+231,"ODSS",0,"Nerve Agent Antidotes","No",20
+231,"ODSS",2,"Loud Noises","Don't Know",18
+231,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",19
+231,"ODSS",2,"Paint","Yes",18
+231,"OIF/OEF/OND",1,"Pesticides","Don't Know",19
+231,"ODSS",2,"Petrochemical Fuels or Fumes","No",19
+231,"ODSS",1,"Industrial Pollution","Don't Know",19
+231,"ODSS",2,"Prophylactic Meds","Don't Know",19
+231,"ODSS",2,"Radar/Microwaves","No",21
+231,"OIF/OEF/OND",1,"Ionizing Radiation","No",19
+231,"OIF/OEF/OND",2,"Sand/Dust","Don't Know",19
+231,"ODSS",2,"Vaccinations","Yes",19
+231,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",19
+231,"ODSS",1,"Bathed in Contaminated Water","No",19
+231,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",18
+231,"ODSS",2,"Weapons Exhaust","No",18
+259,"OIF/OEF/OND",0,"Animal Bodies","Don't Know",18
+259,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",19
+259,"OIF/OEF/OND",0,"Asbestos","Yes",18
+259,"OIF/OEF/OND",0,"Biological Warfare Agents","Don't Know",19
+259,"OIF/OEF/OND",0,"Animal Bites","No",16
+259,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",18
+259,"ODSS",2,"Burning Trash or Feces","Yes",18
+259,"ODSS",0,"Chemical Solvents","Yes",17
+259,"OIF/OEF/OND",0,"Chlorine Gas","Yes",18
+259,"ODSS",2,"Depleted Uranium","Don't Know",18
+259,"ODSS",1,"Fog Oils","Yes",16
+259,"ODSS",2,"Tent Heater Smoke","Yes",18
+259,"ODSS",0,"Agent Orange or Other Herbicides","No",18
+259,"OIF/OEF/OND",1,"Infectious Disease","Don't Know",18
+259,"OIF/OEF/OND",1,"Insect Bites","No",17
+259,"OIF/OEF/OND",1,"Lasers","Yes",18
+259,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",17
+259,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",19
+259,"ODSS",0,"Nerve Agent Antidotes","No",17
+259,"OIF/OEF/OND",2,"Loud Noises","No",20
+259,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Don't Know",18
+259,"OIF/OEF/OND",2,"Paint","No",18
+259,"OIF/OEF/OND",1,"Pesticides","Don't Know",17
+259,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",17
+259,"OIF/OEF/OND",1,"Industrial Pollution","No",18
+259,"OIF/OEF/OND",2,"Prophylactic Meds","No",18
+259,"OIF/OEF/OND",2,"Radar/Microwaves","No",18
+259,"ODSS",1,"Ionizing Radiation","No",17
+259,"OIF/OEF/OND",2,"Sand/Dust","Yes",18
+259,"ODSS",2,"Vaccinations","Don't Know",18
+259,"ODSS",1,"Excessive Vibration","No",18
+259,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Don't Know",16
+259,"ODSS",0,"Chemical Weapons","No",18
+259,"ODSS",2,"Weapons Exhaust","Don't Know",19
+259,"ODSS",0,"Animal Bodies","No",19
+259,"OIF/OEF/OND",0,"Anthrax Vaccine","Don't Know",18
+259,"OIF/OEF/OND",0,"Asbestos","Yes",18
+259,"ODSS",0,"Biological Warfare Agents","Yes",17
+259,"ODSS",0,"Animal Bites","No",18
+259,"ODSS",1,"Human Blood/Bodily Fluids","Don't Know",18
+259,"OIF/OEF/OND",2,"Burning Trash or Feces","No",18
+259,"ODSS",0,"Chemical Solvents","No",18
+259,"OIF/OEF/OND",0,"Chlorine Gas","Yes",17
+259,"ODSS",2,"Depleted Uranium","No",18
+259,"OIF/OEF/OND",1,"Fog Oils","Don't Know",17
+259,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",18
+259,"ODSS",0,"Agent Orange or Other Herbicides","No",18
+259,"OIF/OEF/OND",1,"Infectious Disease","No",19
+259,"OIF/OEF/OND",1,"Insect Bites","No",19
+259,"OIF/OEF/OND",1,"Lasers","Yes",18
+259,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",17
+259,"ODSS",0,"Chemical Alarms/MOPP4","No",18
+259,"ODSS",0,"Nerve Agent Antidotes","Don't Know",18
+259,"ODSS",2,"Loud Noises","Don't Know",18
+259,"ODSS",1,"Ingestion of Contaminated Water","No",17
+259,"OIF/OEF/OND",2,"Paint","Yes",18
+259,"ODSS",1,"Pesticides","Don't Know",18
+259,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",19
+259,"ODSS",1,"Industrial Pollution","Don't Know",19
+259,"ODSS",2,"Prophylactic Meds","Yes",18
+259,"OIF/OEF/OND",2,"Radar/Microwaves","Don't Know",17
+259,"ODSS",1,"Ionizing Radiation","Don't Know",18
+259,"OIF/OEF/OND",2,"Sand/Dust","Yes",19
+259,"OIF/OEF/OND",2,"Vaccinations","No",19
+259,"OIF/OEF/OND",1,"Excessive Vibration","Yes",18
+259,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",18
+259,"OIF/OEF/OND",0,"Chemical Weapons","Yes",20
+259,"ODSS",2,"Weapons Exhaust","Don't Know",17
+71,"OIF/OEF/OND",0,"Animal Bodies","Yes",26
+71,"OIF/OEF/OND",0,"Anthrax Vaccine","Yes",25
+71,"ODSS",0,"Asbestos","Don't Know",25
+71,"ODSS",0,"Biological Warfare Agents","No",25
+71,"OIF/OEF/OND",0,"Animal Bites","No",25
+71,"ODSS",1,"Human Blood/Bodily Fluids","No",25
+71,"ODSS",2,"Burning Trash or Feces","Don't Know",25
+71,"ODSS",0,"Chemical Solvents","Yes",24
+71,"ODSS",0,"Chlorine Gas","Yes",25
+71,"ODSS",2,"Depleted Uranium","No",25
+71,"ODSS",1,"Fog Oils","Don't Know",25
+71,"ODSS",2,"Tent Heater Smoke","Don't Know",25
+71,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",26
+71,"OIF/OEF/OND",1,"Infectious Disease","Yes",24
+71,"ODSS",1,"Insect Bites","Don't Know",25
+71,"ODSS",1,"Lasers","No",24
+71,"OIF/OEF/OND",2,"Embedded Metal Fragments","Don't Know",24
+71,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",24
+71,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",28
+71,"OIF/OEF/OND",2,"Loud Noises","Don't Know",26
+71,"ODSS",1,"Ingestion of Contaminated Water","Don't Know",25
+71,"OIF/OEF/OND",2,"Paint","Yes",24
+71,"ODSS",1,"Pesticides","Yes",25
+71,"ODSS",2,"Petrochemical Fuels or Fumes","Yes",25
+71,"OIF/OEF/OND",1,"Industrial Pollution","No",25
+71,"OIF/OEF/OND",2,"Prophylactic Meds","No",25
+71,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",25
+71,"OIF/OEF/OND",1,"Ionizing Radiation","No",26
+71,"OIF/OEF/OND",2,"Sand/Dust","No",25
+71,"OIF/OEF/OND",2,"Vaccinations","Yes",25
+71,"ODSS",1,"Excessive Vibration","Yes",24
+71,"ODSS",1,"Bathed in Contaminated Water","No",26
+71,"ODSS",0,"Chemical Weapons","No",25
+71,"ODSS",2,"Weapons Exhaust","Don't Know",25
+60,"ODSS",0,"Animal Bodies","Yes",20
+60,"ODSS",0,"Anthrax Vaccine","Don't Know",19
+60,"OIF/OEF/OND",0,"Asbestos","Don't Know",20
+60,"OIF/OEF/OND",0,"Biological Warfare Agents","No",19
+60,"OIF/OEF/OND",0,"Animal Bites","Yes",19
+60,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",19
+60,"ODSS",2,"Burning Trash or Feces","No",20
+60,"ODSS",0,"Chemical Solvents","No",20
+60,"ODSS",0,"Chlorine Gas","Yes",21
+60,"ODSS",2,"Depleted Uranium","Yes",20
+60,"OIF/OEF/OND",1,"Fog Oils","No",20
+60,"OIF/OEF/OND",2,"Tent Heater Smoke","Don't Know",20
+60,"ODSS",0,"Agent Orange or Other Herbicides","Yes",19
+60,"ODSS",1,"Infectious Disease","Don't Know",21
+60,"ODSS",1,"Insect Bites","Don't Know",20
+60,"ODSS",1,"Lasers","Yes",21
+60,"ODSS",2,"Embedded Metal Fragments","No",19
+60,"ODSS",0,"Chemical Alarms/MOPP4","Don't Know",19
+60,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",20
+60,"ODSS",2,"Loud Noises","No",19
+60,"ODSS",1,"Ingestion of Contaminated Water","No",20
+60,"ODSS",2,"Paint","Yes",21
+60,"OIF/OEF/OND",1,"Pesticides","Don't Know",20
+60,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","No",20
+60,"ODSS",1,"Industrial Pollution","No",19
+60,"OIF/OEF/OND",2,"Prophylactic Meds","Yes",21
+60,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",20
+60,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",19
+60,"ODSS",2,"Sand/Dust","Don't Know",19
+60,"ODSS",2,"Vaccinations","No",19
+60,"ODSS",1,"Excessive Vibration","Yes",20
+60,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",20
+60,"ODSS",0,"Chemical Weapons","No",21
+60,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",20
+388,"ODSS",0,"Animal Bodies","Don't Know",21
+388,"ODSS",0,"Anthrax Vaccine","No",21
+388,"OIF/OEF/OND",0,"Asbestos","Don't Know",20
+388,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",21
+388,"OIF/OEF/OND",0,"Animal Bites","No",23
+388,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",21
+388,"OIF/OEF/OND",2,"Burning Trash or Feces","Yes",21
+388,"ODSS",0,"Chemical Solvents","No",20
+388,"OIF/OEF/OND",0,"Chlorine Gas","Yes",21
+388,"ODSS",2,"Depleted Uranium","Yes",21
+388,"OIF/OEF/OND",1,"Fog Oils","Don't Know",21
+388,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",22
+388,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",20
+388,"OIF/OEF/OND",1,"Infectious Disease","Yes",21
+388,"ODSS",1,"Insect Bites","Don't Know",20
+388,"OIF/OEF/OND",1,"Lasers","Yes",19
+388,"ODSS",2,"Embedded Metal Fragments","Yes",20
+388,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","Don't Know",21
+388,"ODSS",0,"Nerve Agent Antidotes","No",21
+388,"ODSS",2,"Loud Noises","No",21
+388,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","No",22
+388,"OIF/OEF/OND",2,"Paint","Yes",20
+388,"OIF/OEF/OND",1,"Pesticides","Yes",20
+388,"ODSS",2,"Petrochemical Fuels or Fumes","No",20
+388,"OIF/OEF/OND",1,"Industrial Pollution","No",21
+388,"ODSS",2,"Prophylactic Meds","No",21
+388,"ODSS",2,"Radar/Microwaves","No",21
+388,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",21
+388,"OIF/OEF/OND",2,"Sand/Dust","Yes",19
+388,"ODSS",2,"Vaccinations","No",22
+388,"OIF/OEF/OND",1,"Excessive Vibration","No",21
+388,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",21
+388,"OIF/OEF/OND",0,"Chemical Weapons","Don't Know",21
+388,"ODSS",2,"Weapons Exhaust","Don't Know",21
+1,"OIF/OEF/OND",0,"Animal Bodies","Yes",23
+1,"ODSS",0,"Anthrax Vaccine","Yes",23
+1,"ODSS",0,"Asbestos","Don't Know",21
+1,"ODSS",0,"Biological Warfare Agents","Don't Know",22
+1,"ODSS",0,"Animal Bites","No",23
+1,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","No",23
+1,"ODSS",2,"Burning Trash or Feces","Yes",22
+1,"ODSS",0,"Chemical Solvents","No",23
+1,"OIF/OEF/OND",0,"Chlorine Gas","No",24
+1,"OIF/OEF/OND",2,"Depleted Uranium","No",21
+1,"ODSS",1,"Fog Oils","Yes",23
+1,"OIF/OEF/OND",2,"Tent Heater Smoke","No",22
+1,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","No",22
+1,"OIF/OEF/OND",1,"Infectious Disease","No",23
+1,"OIF/OEF/OND",1,"Insect Bites","No",23
+1,"ODSS",1,"Lasers","Don't Know",23
+1,"OIF/OEF/OND",2,"Embedded Metal Fragments","Yes",24
+1,"ODSS",0,"Chemical Alarms/MOPP4","Yes",22
+1,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",24
+1,"OIF/OEF/OND",2,"Loud Noises","No",24
+1,"ODSS",1,"Ingestion of Contaminated Water","No",24
+1,"ODSS",2,"Paint","Yes",24
+1,"OIF/OEF/OND",1,"Pesticides","No",24
+1,"OIF/OEF/OND",2,"Petrochemical Fuels or Fumes","Don't Know",23
+1,"OIF/OEF/OND",1,"Industrial Pollution","Yes",23
+1,"ODSS",2,"Prophylactic Meds","Yes",24
+1,"ODSS",2,"Radar/Microwaves","Yes",24
+1,"OIF/OEF/OND",1,"Ionizing Radiation","Yes",24
+1,"OIF/OEF/OND",2,"Sand/Dust","Yes",22
+1,"OIF/OEF/OND",2,"Vaccinations","Yes",23
+1,"OIF/OEF/OND",1,"Excessive Vibration","Yes",23
+1,"ODSS",1,"Bathed in Contaminated Water","Yes",23
+1,"OIF/OEF/OND",0,"Chemical Weapons","Yes",23
+1,"OIF/OEF/OND",2,"Weapons Exhaust","No",22
+233,"ODSS",0,"Animal Bodies","Yes",21
+233,"ODSS",0,"Anthrax Vaccine","No",21
+233,"ODSS",0,"Asbestos","Don't Know",22
+233,"OIF/OEF/OND",0,"Biological Warfare Agents","Yes",21
+233,"ODSS",0,"Animal Bites","Yes",21
+233,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Yes",23
+233,"OIF/OEF/OND",2,"Burning Trash or Feces","Don't Know",20
+233,"ODSS",0,"Chemical Solvents","Don't Know",21
+233,"OIF/OEF/OND",0,"Chlorine Gas","Yes",21
+233,"ODSS",2,"Depleted Uranium","No",22
+233,"OIF/OEF/OND",1,"Fog Oils","No",21
+233,"OIF/OEF/OND",2,"Tent Heater Smoke","Yes",21
+233,"OIF/OEF/OND",0,"Agent Orange or Other Herbicides","Don't Know",21
+233,"OIF/OEF/OND",1,"Infectious Disease","Yes",21
+233,"ODSS",1,"Insect Bites","Yes",20
+233,"ODSS",1,"Lasers","No",21
+233,"ODSS",2,"Embedded Metal Fragments","Yes",21
+233,"OIF/OEF/OND",0,"Chemical Alarms/MOPP4","No",21
+233,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Don't Know",21
+233,"ODSS",2,"Loud Noises","No",21
+233,"OIF/OEF/OND",1,"Ingestion of Contaminated Water","Yes",22
+233,"OIF/OEF/OND",2,"Paint","No",22
+233,"ODSS",1,"Pesticides","Don't Know",21
+233,"ODSS",2,"Petrochemical Fuels or Fumes","No",22
+233,"OIF/OEF/OND",1,"Industrial Pollution","Yes",21
+233,"ODSS",2,"Prophylactic Meds","No",21
+233,"OIF/OEF/OND",2,"Radar/Microwaves","Yes",21
+233,"OIF/OEF/OND",1,"Ionizing Radiation","Don't Know",20
+233,"ODSS",2,"Sand/Dust","No",21
+233,"OIF/OEF/OND",2,"Vaccinations","No",21
+233,"ODSS",1,"Excessive Vibration","No",21
+233,"OIF/OEF/OND",1,"Bathed in Contaminated Water","No",21
+233,"ODSS",0,"Chemical Weapons","Yes",22
+233,"ODSS",2,"Weapons Exhaust","Don't Know",21
+219,"ODSS",0,"Animal Bodies","Yes",17
+219,"ODSS",0,"Anthrax Vaccine","Don't Know",16
+219,"ODSS",0,"Asbestos","No",17
+219,"ODSS",0,"Biological Warfare Agents","No",17
+219,"ODSS",0,"Animal Bites","Don't Know",17
+219,"OIF/OEF/OND",1,"Human Blood/Bodily Fluids","Don't Know",17
+219,"ODSS",2,"Burning Trash or Feces","Don't Know",17
+219,"ODSS",0,"Chemical Solvents","Yes",16
+219,"ODSS",0,"Chlorine Gas","Yes",17
+219,"ODSS",2,"Depleted Uranium","Don't Know",16
+219,"ODSS",1,"Fog Oils","No",17
+219,"ODSS",2,"Tent Heater Smoke","Yes",16
+219,"ODSS",0,"Agent Orange or Other Herbicides","No",18
+219,"ODSS",1,"Infectious Disease","Don't Know",17
+219,"ODSS",1,"Insect Bites","Yes",17
+219,"OIF/OEF/OND",1,"Lasers","Don't Know",17
+219,"OIF/OEF/OND",2,"Embedded Metal Fragments","No",17
+219,"ODSS",0,"Chemical Alarms/MOPP4","Yes",18
+219,"OIF/OEF/OND",0,"Nerve Agent Antidotes","Yes",17
+219,"ODSS",2,"Loud Noises","Don't Know",18
+219,"ODSS",1,"Ingestion of Contaminated Water","Yes",17
+219,"OIF/OEF/OND",2,"Paint","Don't Know",18
+219,"OIF/OEF/OND",1,"Pesticides","Yes",16
+219,"ODSS",2,"Petrochemical Fuels or Fumes","No",17
+219,"OIF/OEF/OND",1,"Industrial Pollution","No",17
+219,"OIF/OEF/OND",2,"Prophylactic Meds","Don't Know",17
+219,"OIF/OEF/OND",2,"Radar/Microwaves","No",17
+219,"ODSS",1,"Ionizing Radiation","Don't Know",17
+219,"ODSS",2,"Sand/Dust","Yes",17
+219,"OIF/OEF/OND",2,"Vaccinations","Yes",17
+219,"OIF/OEF/OND",1,"Excessive Vibration","Don't Know",17
+219,"OIF/OEF/OND",1,"Bathed in Contaminated Water","Yes",16
+219,"ODSS",0,"Chemical Weapons","Don't Know",15
+219,"OIF/OEF/OND",2,"Weapons Exhaust","Don't Know",17
